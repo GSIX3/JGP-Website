@@ -56,14 +56,14 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="highlights">
+      {/* <div className="highlights">
         {site.highlights.map((item) => (
           <div className="highlight-card" key={item.title}>
             <h3>{item.title}</h3>
             <p>{item.description}</p>
           </div>
         ))}
-      </div>
+      </div> */}
     </section>
   );
 }

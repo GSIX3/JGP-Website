@@ -1,6 +1,32 @@
 import "../styles/companies.css";
 import type { CSSProperties } from "react";
-import { companyPartners } from "../content/companies";
+import { Marquee } from "../components/ui/marquee";
+import {
+  companyPartners,
+  type CompanyPartner,
+} from "../content/companies";
+
+const midpoint = Math.ceil(companyPartners.length / 2);
+const topRowPartners = companyPartners.slice(0, midpoint);
+const bottomRowPartners = companyPartners.slice(midpoint);
+
+function CompanyLogo({ company }: { company: CompanyPartner }) {
+  return (
+    <div className="mx-14 flex h-28 shrink-0 items-center justify-center sm:mx-20 sm:h-32">
+      <img
+        src={company.logo}
+        alt={company.name}
+        loading="lazy"
+        className="h-full w-auto max-w-[220px] object-contain sm:max-w-[280px]"
+        style={
+          {
+            maxHeight: `calc(6.5rem * ${company.size ?? 1})`,
+          } as CSSProperties
+        }
+      />
+    </div>
+  );
+}
 
 export default function Companies() {
   return (
@@ -8,22 +34,22 @@ export default function Companies() {
       <h1>Companies Who Work With Us</h1>
 
       <div className="companies-showcase">
-        <ul className="companies-grid">
-          {companyPartners.map((company) => (
-            <li className="companies-grid__item" key={company.name}>
-              <img
-                src={company.logo}
-                alt={company.name}
-                loading="lazy"
-                style={
-                  {
-                    "--logo-size": company.size ?? 1,
-                  } as CSSProperties
-                }
-              />
-            </li>
+        <Marquee pauseOnHover speed={35} className="mt-0 [&>div]:py-2">
+          {topRowPartners.map((company) => (
+            <CompanyLogo key={company.name} company={company} />
           ))}
-        </ul>
+        </Marquee>
+
+        <Marquee
+          pauseOnHover
+          speed={40}
+          direction="right"
+          className="mt-0 [&>div]:py-2"
+        >
+          {bottomRowPartners.map((company) => (
+            <CompanyLogo key={company.name} company={company} />
+          ))}
+        </Marquee>
       </div>
     </section>
   );

@@ -4,10 +4,14 @@
   color: var(--color-white);
   text-align: center;
   padding: 1rem 1.5rem 2.5rem;
-  min-height: 60vh;
+  min-height: calc(100svh - var(--navbar-height));
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+#home {
+  min-height: calc(100svh - var(--navbar-height));
 }
 
 .hero-slide {
@@ -113,7 +117,6 @@
 
 @media (max-width: 768px) {
   .hero {
-    min-height: calc(100svh - var(--navbar-height));
     padding: 1rem 1rem 2rem;
   }
 }
