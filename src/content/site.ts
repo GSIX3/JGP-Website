@@ -35,7 +35,8 @@ export const site = {
     email: null as { display: string; href: string } | null,
     address: "27 Cross Street, Kandy, Sri Lanka",
     mapQuery: "JGP Marketing Services, 27 Cross Street, Kandy, Sri Lanka",
-    
+    notes:
+      "Phone and address sourced from a public directory listing — please confirm. Email and WhatsApp not found in public listings.",
   },
 
   seo: {
