@@ -95,6 +95,9 @@ export default function GooeyText({
         className="gooey-text-inner"
         style={{ filter: `url(#${filterId.current})` }}
       >
+        <span className={`gooey-text-sizer ${textClassName}`} aria-hidden="true">
+          {text}
+        </span>
         <span ref={text1Ref} className={`gooey-text-span ${textClassName}`} />
         <span ref={text2Ref} className={`gooey-text-span ${textClassName}`} />
       </div>

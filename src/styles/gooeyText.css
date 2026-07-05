@@ -1,7 +1,8 @@
 .gooey-text-wrapper {
   position: relative;
-  display: inline-block;
+  display: block;
   width: 100%;
+  max-width: 100%;
 }
 
 .gooey-svg-filter {
@@ -15,13 +16,38 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 2.5em;
+  width: 100%;
+  min-height: 2.5em;
+}
+
+.gooey-text-sizer {
+  visibility: hidden;
+  width: 100%;
+  padding: 0 0.75rem;
+  text-align: center;
+  white-space: normal;
+  line-height: 1.35;
+  word-break: break-word;
 }
 
 .gooey-text-span {
   position: absolute;
-  display: inline-block;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0 0.75rem;
   user-select: none;
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
+  line-height: 1.35;
+  word-break: break-word;
+}
+
+@media (max-width: 480px) {
+  .gooey-text-sizer,
+  .gooey-text-span {
+    padding: 0 0.5rem;
+  }
 }

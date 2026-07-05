@@ -51,7 +51,7 @@
   font-family: 'Montserrat', sans-serif;
   color: var(--color-primary);
   font-weight: bold;
-  font-size: 1.8rem;
+  font-size: clamp(1rem, 4.5vw, 1.8rem);
   text-transform: uppercase;
 }
 
@@ -97,7 +97,8 @@
 }
 
 .highlight-card {
-  background-color: var(--color-light-grey);
+  background-color: var(--color-primary-light);
+  border: 1px solid rgba(249, 115, 22, 0.28);
   border-radius: 6px;
   padding: 1.5rem;
   flex: 1 1 250px;
@@ -110,6 +111,13 @@
   margin-bottom: 0.5rem;
 }
 
+@media (max-width: 768px) {
+  .hero {
+    min-height: calc(100svh - var(--navbar-height));
+    padding: 1rem 1rem 2rem;
+  }
+}
+
 @media (max-width: 480px) {
   .hero h1 {
     font-size: 2rem;
@@ -119,17 +127,8 @@
     font-size: 1rem;
   }
 
-  .hero-tagline {
-    font-size: 1.2rem;
-  }
-
   .hero-tagline-wrapper {
     margin-bottom: 2.5rem;
-  }
-
-  .hero {
-    min-height: 50vh;
-    padding: 1rem 1rem 2rem;
   }
 
   .btn {

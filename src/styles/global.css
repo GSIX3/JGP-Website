@@ -8,8 +8,10 @@ html {
   --color-black: #1a1a1a;
   --color-dark-grey: #2e2e2e;
   --color-light-grey: #f4f4f4;
+  --color-primary-light: #ffedd5;
   --color-white: #ffffff;
   --font-base: 'Segoe UI', Arial, sans-serif;
+  --navbar-height: 4.75rem;
 }
 
 * {

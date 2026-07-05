@@ -14,14 +14,14 @@
 export const site = {
   name: "JGP Marketing Services",
   legalName: "JGP Marketing Services (Pvt) Ltd",
-  tagline: "Pharmaceutical Distribution — Central Province",
+  tagline: "Pharmaceutical Distribution",
   shortDescription:
     "Licensed pharmaceutical distributor serving pharmacies, hospitals, and healthcare institutions in Sri Lanka's Central Province.",
 
   heroTaglines: [
     "Your Trusted Pharma Partner",
     "Quality Medicines Delivered",
-    "Serving Central Province Healthcare",
+    "Serving Healthcare Providers",
   ] as const,
 
   contact: {
@@ -33,8 +33,8 @@ export const site = {
     phones: [{ display: "081 220 0859", href: "tel:+94812200859" }],
     whatsapp: null as { display: string; href: string } | null,
     email: null as { display: string; href: string } | null,
-    address: "27 Cross Street, Kandy, Sri Lanka",
-    mapQuery: "JGP Marketing Services, 27 Cross Street, Kandy, Sri Lanka",
+    address: "64 Riverdale Rd, Kandy 20000, Sri Lanka",
+    mapQuery: "JGP Marketing Services 64 Riverdale Rd, Kandy 20000, Sri Lanka",
     notes:
       "Phone and address sourced from a public directory listing — please confirm. Email and WhatsApp not found in public listings.",
   },
@@ -51,7 +51,7 @@ export const site = {
   },
 
   about: {
-    subtitle: "Trusted pharmaceutical distribution in Sri Lanka's Central Province",
+    subtitle: "Trusted pharmaceutical distribution in Sri Lanka",
     paragraphs: [
       "JGP Marketing Services (Pvt) Ltd is a pharmaceutical distribution company based in Kandy, dedicated to connecting licensed manufacturers with pharmacies, hospitals, and healthcare institutions across the Central Province.",
       "We focus on the compliant storage, handling, and delivery of medicines and healthcare products supporting healthcare providers with reliable supply at every step of the distribution chain.",

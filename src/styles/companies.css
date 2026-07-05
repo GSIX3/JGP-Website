@@ -43,6 +43,12 @@
   object-fit: contain;
 }
 
+@media (max-width: 639px) {
+  .companies-grid__item:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
+}
+
 @media (min-width: 640px) {
   .companies-grid {
     --logo-base-height: 72px;
