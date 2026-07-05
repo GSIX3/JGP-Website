@@ -76,8 +76,6 @@ export default function Contact() {
         </div>
       </div>
 
-      <p className="contact-note">{site.contact.notes}</p>
-
       <div className="map-wrapper">
         <iframe
           src={mapSrc}
