@@ -1,0 +1,4954 @@
+[
+  {
+    "itemCode": "BA40732",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "ALCON SYSTANE GEL DROPS lubricant eye gel",
+    "category": "Gel",
+    "packSize": ""
+  },
+  {
+    "itemCode": "BA00028",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "AZARGA EYE DROPS BRINZOLAMIDE 10MG + TIMOLOL",
+    "category": "Eye Drops",
+    "packSize": "5 ML"
+  },
+  {
+    "itemCode": "BA00039",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "SYSTANE ULTRA EYE DROPS Polyethylene Glycol",
+    "category": "Eye Drops",
+    "packSize": "10 ML"
+  },
+  {
+    "itemCode": "BA00040",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "TEARS NATURAL EYE DROPS Dextran 70 + Hydroxypropyl",
+    "category": "Eye Drops",
+    "packSize": "10 ML"
+  },
+  {
+    "itemCode": "BA00044",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "TOBREX EYE OINT 0.3% 3.5G Tobramycin Oinment",
+    "category": "Eye Ointment",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "BA00045",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "TRAVATAN EYE DROPS Travoprost eye drop",
+    "category": "Eye Drops",
+    "packSize": "2.5 ML"
+  },
+  {
+    "itemCode": "BA00046",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ALCON PHARMACEUTICALS PVT LTD",
+    "name": "VIGAMOX EYE DROPS 0.5% MOXIFLOXACIN HYDROCHLORIDE EYE DROPS",
+    "category": "Eye Drops",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "BA00381",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "BAUR LIFE SCIENCE LTD",
+    "name": "MOXIN B 500MG CAPS Amoxicillin",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "BA16098",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "BAUR LIFE SCIENCE LTD",
+    "name": "NEUTRATE SOAP",
+    "category": "Soap",
+    "packSize": "100G"
+  },
+  {
+    "itemCode": "BA26657",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "BLS LOCAL PRODUCTION",
+    "name": "FORACNE-ANTI ACNE BAR",
+    "category": "Soap",
+    "packSize": "100G"
+  },
+  {
+    "itemCode": "BA26654",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "BLS LOCAL PRODUCTION",
+    "name": "INTIVA LIQUID WASH",
+    "category": "Wash",
+    "packSize": "100ML"
+  },
+  {
+    "itemCode": "BA26656",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "BLS LOCAL PRODUCTION",
+    "name": "KETONA-ANTI FUNGAL SOAP",
+    "category": "Soap",
+    "packSize": "100G"
+  },
+  {
+    "itemCode": "BA00086",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "COMMON",
+    "name": "DIGITAL THERMOMETER MC - 246",
+    "category": "Equipment",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "BA32922",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "COMMON",
+    "name": "NEBULIZER NEC 106",
+    "category": "Equipment",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "BA26795",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "INOVA PHARMA",
+    "name": "NUELIN SR 250MG",
+    "category": "Other",
+    "packSize": "2*20S"
+  },
+  {
+    "itemCode": "BA26797",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "INOVA PHARMA",
+    "name": "NUELIN SYRUP 26.67MG",
+    "category": "Syrup",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "BA33000",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "NEOTONE EYES 15 ML",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "BA00147",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "NEOTONE GEL 150ML",
+    "category": "Gel",
+    "packSize": ""
+  },
+  {
+    "itemCode": "BA26192",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "NEOTONE SERUM 30ML",
+    "category": "Serum",
+    "packSize": "30ML"
+  },
+  {
+    "itemCode": "BA40304",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "SECALIA ATO BALM 40ML",
+    "category": "Other",
+    "packSize": "40ML"
+  },
+  {
+    "itemCode": "BA00150",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "SENSYLIA CREAM 24H 40ML",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "BA39356",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "TEEN DERM A. Z.",
+    "category": "Other",
+    "packSize": "30ML"
+  },
+  {
+    "itemCode": "BA39225",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "UVEBLOCK SPF 50+ FLUID INVISIBLE",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "BA00159",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ISIS PHARMA",
+    "name": "VITISKIN 50ML",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "BA00117",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEDA PHARMA",
+    "name": "DERMATIX 15G GEL  Silicon Gel",
+    "category": "Gel",
+    "packSize": "15G"
+  },
+  {
+    "itemCode": "BA00399",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEDA PHARMA",
+    "name": "ELIDEL CREAM 1%  CREAM  Pimecrolimus Cream",
+    "category": "Cream",
+    "packSize": "15 G"
+  },
+  {
+    "itemCode": "BA00124",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEDA PHARMA",
+    "name": "LIBRAX  Chlordiazepoxide + Clidinium bromide",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "BA00161",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEGA NUTRA",
+    "name": "GINSOMIN TABS  Ginses Extract + Multivitamin",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "BA00162",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEGA NUTRA",
+    "name": "GLOW CAPS  Marine Extract + Multivitamin",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "BA00375",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEGA NUTRA",
+    "name": "GLOW COLLAGEN  Hydrolysate",
+    "category": "Supplement",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "BA00167",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MEGA NUTRA",
+    "name": "PYNOCARE 40MG ACTISOME",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "BA03200",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "MSD-MERCK SHARP & D",
+    "name": "ELOMET CREAM 5G Momethasone",
+    "category": "Cream",
+    "packSize": "5G"
+  },
+  {
+    "itemCode": "BA00215",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NESTLE NUTRITION",
+    "name": "RESOURCE WHEY PROTEIN",
+    "category": "Supplement",
+    "packSize": "300G"
+  },
+  {
+    "itemCode": "BA00216",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NESTLE NUTRITION",
+    "name": "RESOURSE DIABETIC VANILLA",
+    "category": "Other",
+    "packSize": "400G"
+  },
+  {
+    "itemCode": "BA00217",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NESTLE NUTRITION",
+    "name": "SUSTACAL",
+    "category": "Other",
+    "packSize": "400G"
+  },
+  {
+    "itemCode": "BA00227",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "CATAFLAM 50MG  Diclofenac potassium",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "BA26800",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "DERMA VEEN MOISTURISING CREAM 100G",
+    "category": "Cream",
+    "packSize": "100G"
+  },
+  {
+    "itemCode": "BA00237",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "GALVUS 50MG TABS  Vildagliptin 50mg",
+    "category": "Tablets",
+    "packSize": "28 S"
+  },
+  {
+    "itemCode": "BA00249",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "STALEVO 100MG TABLETS  Levodopa",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "BA00254",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "TEGRATOL TABS 200MG 50 S  Carbamazepin",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "BA42632",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "TEGRETOL CR 200MG 100 S  carbamazepine",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "BA00396",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "VOLTAREN SUPP 100MG  Diclofenac sodium 100mg",
+    "category": "Other",
+    "packSize": "5 S"
+  },
+  {
+    "itemCode": "BA00261",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "VOLTAREN SUPP 50MG  Diclofenac sodium 50Mg",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "BA00263",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "NOVARTIS PHARMA",
+    "name": "VOLTAREN TABS 50MG  Diclofenac sodium 100mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "BA00071",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "OMRON",
+    "name": "AUTO BP MONITOR HEM 7120 PROMO",
+    "category": "Equipment",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "BA00275",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ROCHE",
+    "name": "MADOPAR TABS 250  Levodepa + Benserazide",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "BA00279",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ROCHE",
+    "name": "RIVOTRIL TABS 0.5MG  Clonazepam 0.5mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "BA00280",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "ROCHE",
+    "name": "RIVOTRIL TABS 2MG  Clonazepam 2mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "BA00293",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANDOZ",
+    "name": "CURAM 625MG TAB  Co-Amoxiclav 625mg",
+    "category": "Tablets",
+    "packSize": "12 S"
+  },
+  {
+    "itemCode": "BA002940",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANDOZ",
+    "name": "CURAM ORAL SUS 156.25MG/100ML  Co - Amoxicilline",
+    "category": "Syrup",
+    "packSize": "100ML"
+  },
+  {
+    "itemCode": "BA30869",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "ALLEGRA 120MG  Fexofenadine 120mg",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "BA30871",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "ALLEGRA 180MG  Fexofenadine 180mg",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "BA30879",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "AMARYL TAB 1MG  Glimpride",
+    "category": "Tablets",
+    "packSize": "2*30 S"
+  },
+  {
+    "itemCode": "BA30881",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "AMARYL TAB 2MG  Glimpiride",
+    "category": "Tablets",
+    "packSize": "2*30 S"
+  },
+  {
+    "itemCode": "BA30997",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "CARDACE 5MG  Ramipril",
+    "category": "Other",
+    "packSize": "3*30 S"
+  },
+  {
+    "itemCode": "BA40308",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "CETAPIN XR 500MG 5*20S  Metformin Hydrochloride",
+    "category": "Other",
+    "packSize": "5*20S"
+  },
+  {
+    "itemCode": "BA30931",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "FRISIUM 10MG  Clobazam",
+    "category": "Other",
+    "packSize": "15*30 S"
+  },
+  {
+    "itemCode": "BA309430",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "LANTUS INJECTION 3ML CARTRIDGE  Insulin Glargine",
+    "category": "Injection",
+    "packSize": "5 S"
+  },
+  {
+    "itemCode": "BA30963",
+    "company": "A BAUR & CO. (PHARMACEUTICALS) LTD.",
+    "range": "SANOFI",
+    "name": "SOFRAMYCIN CREAM 20G  framycetin",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "ACEH089",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "ACEVITA SYRUP IH 200 ML",
+    "category": "Syrup",
+    "packSize": "200 ML"
+  },
+  {
+    "itemCode": "AN40053",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "B-ACE 3*10S",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "AS25218",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "DERM ACE MOISTURIZING LOTION 100ML",
+    "category": "Lotion",
+    "packSize": "100ML"
+  },
+  {
+    "itemCode": "AE25501",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "MIDOXYL 60ML  minoxidil",
+    "category": "Other",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "ACEH0021",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "VIDAN B SYRUP IH 200ML",
+    "category": "Syrup",
+    "packSize": "200ml"
+  },
+  {
+    "itemCode": "AS25278",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "VIDAN COLLAGEN 200ML",
+    "category": "Supplement",
+    "packSize": "200ML"
+  },
+  {
+    "itemCode": "ACEH0022",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "VIDAN D 2000",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "ACEH0011",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ACE HEALTHCARE",
+    "name": "VIDAN D 5000",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "ALBE01",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "BEATS CAPS  Omega 3 Fatty Acid 1000mg",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "AN25141",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "CONDROMIN 30 S  glucosamine",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "AP0007",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "GABACE 100MG",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "ALGA02",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "GAMMA LINOLENIC ACID 120MG",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "AL0227",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "ME B12 30S  Co-Methylcobalamin",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "AN0005",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "NEUROACE 3*10S",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "AN0004",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "NEUROVIDAN TAB",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "ALOS03B",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "OSTEOFLAM PLUS 60 S  Glucosamine 750mg + Green Lipped Mussel 200mg",
+    "category": "Other",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "AL0190",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "VITRA A-Z 2*15S  A-Z Complete Vitamins",
+    "category": "Supplement",
+    "packSize": "2*15S"
+  },
+  {
+    "itemCode": "ALO185",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "CMPS PHARMA",
+    "name": "VITRA MAMA 3*10S  Vitamins+Minerals+DHA",
+    "category": "Supplement",
+    "packSize": "3*10S"
+  },
+  {
+    "itemCode": "ALPR025",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "COMMON",
+    "name": "PROTEC TABS",
+    "category": "Tablets",
+    "packSize": "90S"
+  },
+  {
+    "itemCode": "ALVI02",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "COMMON",
+    "name": "VITACEE TABS  Vitamin C 500mg",
+    "category": "Tablets",
+    "packSize": "90S"
+  },
+  {
+    "itemCode": "AL65235",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "400 - D CAPS  colecalciferol",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "ALAM01",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "AMINO XL  Essential & Semi Essential Amino Acid",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "ALZ008",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "BRIGHT D 2000",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "ALER02Y",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "ERA - DN 60 S  Epo 1000mg + Methyl Cobalamin 1500mcg + Vitamin B6 1.5mg + Chromium 50 mcg",
+    "category": "Supplement",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "ALKQ01",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "K2Q TABLETS  Vitamin K2 with Conzyme Q10",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "ALNA002",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "NATOCARE CAPS  DHA+FOLIC ACID+IODINE",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "ALNU022",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "NUFLAM TABS  Glucosamine 500mg + Chonodrotin 250mg",
+    "category": "Tablets",
+    "packSize": "80 S"
+  },
+  {
+    "itemCode": "ALSO03",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "SOLOMEGA 60 S  Omega 3 Fatty acid",
+    "category": "Other",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "ALVI01",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM  PHARMA",
+    "name": "VITAKID 30 S  Chewable Multivitamin & Multiminerals For Kids",
+    "category": "Supplement",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "ALVI04",
+    "company": "ALARIS LANKA (PVT) LTD.",
+    "range": "ZIFAM PHARMACEUTICALS PVT LTD.",
+    "name": "VITROMEGA 6*10S Natural Fish Oil",
+    "category": "Tablets",
+    "packSize": "60S"
+  },
+  {
+    "itemCode": "HFGA5",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 01",
+    "name": "HERBAL COUGH SYRUP 100 ML",
+    "category": "Other",
+    "packSize": "100 ML"
+  },
+  {
+    "itemCode": "APF389",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 01",
+    "name": "LIPISTAT 20MG  Atorvastatin 20mg",
+    "category": "Gel",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "APFGA225",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 01",
+    "name": "ORALEEZ GEL 10 G  Gel for mouth sores",
+    "category": "Other",
+    "packSize": "10 G"
+  },
+  {
+    "itemCode": "APFGA317",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 01",
+    "name": "RAPIDENE 500MG  Paracetamol & Codeine",
+    "category": "Cream",
+    "packSize": "120 S"
+  },
+  {
+    "itemCode": "APFGA33",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 01",
+    "name": "TRETIN - A CREAM  Tretinoin",
+    "category": "Tablets",
+    "packSize": "15 GM"
+  },
+  {
+    "itemCode": "APFGA145",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "ALLERMINE 4MG TABS  Chlorpheniramine",
+    "category": "Tablets",
+    "packSize": "500 S"
+  },
+  {
+    "itemCode": "APFGA422",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "ASCLAV TAB 625MG 14 S  amoxicilin and clavulanate",
+    "category": "Capsules",
+    "packSize": "14 S"
+  },
+  {
+    "itemCode": "APFGA43",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "BECOSULES CAPS  Vitamin B Complex",
+    "category": "Syrup",
+    "packSize": "300 S"
+  },
+  {
+    "itemCode": "APFGA29",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "BECOSULS SYRUP 200ML  Vitamin B Complex",
+    "category": "Cream",
+    "packSize": "200 ML"
+  },
+  {
+    "itemCode": "APFGA289",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "CURADERM CREAM 100 G",
+    "category": "Syrup",
+    "packSize": "100G"
+  },
+  {
+    "itemCode": "APFGA101",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "DUROL 200 ML  Iorn & vit b complex syrup",
+    "category": "Ointment",
+    "packSize": "200 ML"
+  },
+  {
+    "itemCode": "APFGA56",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "POLYMYCIN OINTMENT  Oxytetracycline & polymixin topical oinment",
+    "category": "Other",
+    "packSize": "5 G"
+  },
+  {
+    "itemCode": "APFGA119",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 02",
+    "name": "TETRA-CORT TOPICAL OIN:  Oxytetracycline & Hydrocortisone",
+    "category": "Cream",
+    "packSize": "15G"
+  },
+  {
+    "itemCode": "APFGA41",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "FUSID 2% CREAM  Fusidic Acid",
+    "category": "Other",
+    "packSize": "10G"
+  },
+  {
+    "itemCode": "APFG395",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "LOZART 50MG  Losartan Potassium 50mg",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "APFGA55",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "OVRON 30 S BLISTER  Multi Vitamins,Iorn & iodine capsule",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "APFGA31",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "PYRANTIN BLISTER 125MG  Pyrantel pamoate",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "APFGA32",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "PYRANTIN SUSPENION  Pyrantel pamoate",
+    "category": "Tablets",
+    "packSize": "10 ML"
+  },
+  {
+    "itemCode": "APFGA330",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "RAPISOL 500MG TABS  Paracetamol",
+    "category": "Tablets",
+    "packSize": "140 S"
+  },
+  {
+    "itemCode": "APFGA221",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "TURBUTE 2.5MG TABS  Terbutaline Sulphate",
+    "category": "Syrup",
+    "packSize": "15 GM"
+  },
+  {
+    "itemCode": "APFGA120",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "TURBUTE SYRUP  Terbutaline Sulphate",
+    "category": "Supplement",
+    "packSize": "100 ML"
+  },
+  {
+    "itemCode": "APFGA327",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "VITALISE GOLD 100ML  Multi Vitamins",
+    "category": "Supplement",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "APFGA326",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 03",
+    "name": "VITALISE GOLD 200ML  Multi Vitamins",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "APFGA83",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "ASTROCORT 0.5% CREAM  Hydrocotison Cream",
+    "category": "Cream",
+    "packSize": "10 GM"
+  },
+  {
+    "itemCode": "APFGA53",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "ASTROCORT CREAM 1%  Hydrocotison Cream",
+    "category": "Other",
+    "packSize": "15 GM"
+  },
+  {
+    "itemCode": "APFGA52",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "ASTROCORT TOPICAL 1% OIN:  Hydrocotisone Oinment",
+    "category": "Capsules",
+    "packSize": "15 GM"
+  },
+  {
+    "itemCode": "APFGA34",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "AXCIL 250MG CAPS  Amoxycillin",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "APFGA35",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "AXCIL 500MG CAPS  Amoxycillin",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "APFGA133",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "BEZINC CAPS  Folic acid + Vitamin B complex + Vitamin C",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "APFGA86",
+    "company": "ASTRON LIMITED",
+    "range": "GROUP 04",
+    "name": "JOINTEEZ CAPS",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "CFGA38",
+    "company": "ASTRON LIMITED",
+    "range": "NUTRITION",
+    "name": "PEPTOGEN 276G",
+    "category": "Other",
+    "packSize": "276 G"
+  },
+  {
+    "itemCode": "CFGA77",
+    "company": "ASTRON LIMITED",
+    "range": "NUTRITION",
+    "name": "PROGAIN",
+    "category": "Other",
+    "packSize": "220 G"
+  },
+  {
+    "itemCode": "CFGA3",
+    "company": "ASTRON LIMITED",
+    "range": "NUTRITION",
+    "name": "PROTINEX 180 G",
+    "category": "Other",
+    "packSize": "180 G"
+  },
+  {
+    "itemCode": "4006662",
+    "company": "CIC HOLDINGS PLC",
+    "range": "ABBOTT HEALTH CARE PVT LTD.",
+    "name": "ABB: GLUCERNA 400GM",
+    "category": "Other",
+    "packSize": "400GM"
+  },
+  {
+    "itemCode": "4007492",
+    "company": "CIC HOLDINGS PLC",
+    "range": "ABBOTT HEALTH CARE PVT LTD.",
+    "name": "ABB: NUTRA ENSURE VANILA (BIJ) PRMO PACK",
+    "category": "Other",
+    "packSize": "400MG"
+  },
+  {
+    "itemCode": "4006880",
+    "company": "CIC HOLDINGS PLC",
+    "range": "ABBOTT HEALTH CARE PVT LTD.",
+    "name": "ABB:SIN ENSURE (V) 400GM",
+    "category": "Other",
+    "packSize": "400GM"
+  },
+  {
+    "itemCode": "AGIO006",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "ACIHERPIN 200MG TABS  Aciclovir 200mg Tablets",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "AGIO034",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "ACIHERPIN 400MG TABS  Aciclovir 400mg Tablets",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "AGIO007",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "ACIHERPIN 5% CREAM 5G  Aciclovir Cream 5g",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "AGIO049",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "ACIHERPIN 800MG TABS  Aciclovir 800mg Tablets",
+    "category": "Tablets",
+    "packSize": "5 S"
+  },
+  {
+    "itemCode": "AGIO013",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "BETA D 5% CREAM 15G  Betamethasone Dipropionate",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "AGIO022",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "BETACYLIC OINMENT 15G  Betamethasone Dipropionate",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "AGIO010",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "CANISON 1% SOLUSION 20ML  Clotrimazole",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "AGIO058",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "DROCORT C CREAM 15G  Hydrocortisone & Clotrimazole",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "AGIO027",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "FUSON CREAM  Fusidic Acid",
+    "category": "Cream",
+    "packSize": "5G"
+  },
+  {
+    "itemCode": "AGIO059",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "AGIO PRODUCTS",
+    "name": "MUPIBAN CREAM 5G  Mupirocin",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "HCPL008",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "HEALTH CARE",
+    "name": "ALCET 5MG TABS  Levocitrzine",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "HCPL053",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "HEALTH CARE",
+    "name": "DUOHALE INHALER 200D  Salbutamol & Ipratrpium Bromide",
+    "category": "Inhaler",
+    "packSize": "200 DOSE"
+  },
+  {
+    "itemCode": "HCPL044",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "HEALTH CARE",
+    "name": "EMISTAT FT TABS  Ondansetron",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "HCPL033",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "HEALTH CARE",
+    "name": "FLUMETOL INHALER 250MCG  Salmeterol BP & Fluticasone",
+    "category": "Inhaler",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "HCPL034",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "HEALTH CARE",
+    "name": "PULMOCARE INHALER 100MDI  Salbutamol Pressurized BP",
+    "category": "Inhaler",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "HCPL046",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "HEALTH CARE",
+    "name": "TAMISOL MR TABS  Tamsulosion Hydrochloride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "INCP064",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "BUDICORT NASAL SPRAY 100MCG  Budesonide Aquenous",
+    "category": "Nasal Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "INCP074",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "CELENTA 100 CAP  Celecoxib 100mg",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "INCP035",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "CELENTA 200 CAP  Celecoxib 200mg",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "INC076",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "EMIXEF 200MG 12S  Cefixime 200Mg",
+    "category": "Other",
+    "packSize": "12S"
+  },
+  {
+    "itemCode": "INCP003",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "ESONIX 20MG  Esomeprazole 20mg",
+    "category": "Other",
+    "packSize": "28 S"
+  },
+  {
+    "itemCode": "INCP067",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "INTRAX CAP 500MG  Tranexamic Acid",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "INCP005",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "KILBAC 125MG  Cefuroxime 125mg",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "INCP0070",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "KILBAC 500MG  Cefuroxime 500mg",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "INCP066",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "MENARIL 16MG TAB  Betahistine Dihydochloride",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "INCP011",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "MENARIL 8MG TABS  Betahistine Dihydrochloride Tablets 8mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "INCP030",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "MOMESON NASAL SPRAY 50MG  Mometasone Furoate",
+    "category": "Nasal Spray",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "INCP061",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "ORICOX 120MG TABS  Etirocoxib 120mg",
+    "category": "Tablets",
+    "packSize": "20S"
+  },
+  {
+    "itemCode": "INCP044",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "OSARTIL 25MG TABS  Losartan Potassium 25mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "INCP013",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "OSARTIL 50MG TABS  Losartan Potassium 50mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "INCP059",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "PANTONIX 20MG  Pentoprazole 20mg",
+    "category": "Other",
+    "packSize": "70 S"
+  },
+  {
+    "itemCode": "INCP058",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "PANTONIX 40MG  Pentoprazole 40mg",
+    "category": "Other",
+    "packSize": "70 S"
+  },
+  {
+    "itemCode": "INCP033",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "RYNEX 0.025% NASAL DROPS  Oxymetazoline Hydrochloride",
+    "category": "Nasal Drops",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "INCP047",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "INCEPTA",
+    "name": "TREGO OINTMENT  Mupirocin",
+    "category": "Ointment",
+    "packSize": "10 G"
+  },
+  {
+    "itemCode": "NAVE07",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "NAVESTA",
+    "name": "UNICLAV 156.25MG SUP:",
+    "category": "Other",
+    "packSize": "156.25MG"
+  },
+  {
+    "itemCode": "NAVE08",
+    "company": "CITIHEALTH IMPORTS ( PVT ) LTD.",
+    "range": "NAVESTA",
+    "name": "UNICLAV 375MG  Co-Amoxiclav 375mg",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMALC03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "ALKEM LABORATORIES LTD",
+    "name": "CLAVAM 375MG TABLETS  Co-Amoxiclav 375mg Tablets",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMALC04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "ALKEM LABORATORIES LTD",
+    "name": "CLAVAM 625MG TABLETS  Co-Amoxiclav 625mg Tablets",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMALL02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "ALKEM LABORATORIES LTD",
+    "name": "LARA 50MG TABS  Losartan Potassium 50mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMALO04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "ALKEM LABORATORIES LTD",
+    "name": "ONDEM MD 4MG TABLETS",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMALT01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "ALKEM LABORATORIES LTD",
+    "name": "TAXIM O DT 100MG TABS",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMALT07",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "ALKEM LABORATORIES LTD",
+    "name": "TAXIM O TABLETS 200MG  Cefixime 200Mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMAS01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "AMBALAL SARABHAI ENTERPRISES",
+    "name": "ANASICA JELLY 30ML",
+    "category": "Other",
+    "packSize": "30ML"
+  },
+  {
+    "itemCode": "EMBAG02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "GLEMAZ 2MG TABLETS  Glimpride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMBAG01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "GLEMAZ 4MG TABLETS  Glimpride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMBAI01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "IDELARA 2.5MG 30 S  letrozole",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMBAT01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "T 4 100MCG TABLETS  Levothyroxine Sodium 100mcg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "EMBAT04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "T 4 50MCG TABLETS  Levothyroxine Sodium 50mcg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMBAT06",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "TRANQUINAL 0.5 MG  Alprazolam Tablet",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMBAT03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BAGOA PHARMACEUTICALS ARGENTINA",
+    "name": "TROKEN 75MG TABLETS  Clopidogral",
+    "category": "Tablets",
+    "packSize": "28 S"
+  },
+  {
+    "itemCode": "EMBR002",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BRITON PHARMACEUTICALS",
+    "name": "ACMIST MOISTURISING GEL 50GM",
+    "category": "Gel",
+    "packSize": "50GM"
+  },
+  {
+    "itemCode": "EMBR007",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "BRITON PHARMACEUTICALS",
+    "name": "UV DOUX BLUE SUNSCREEN 50MG",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "EMDRA04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "ATOCOR 10MG 30S  Atorvastatin 10mg",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMDRA05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "ATOCOR 20MG 30 S  Atorvastatin 20mg",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMDRB03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "BECOZINC CAPSULES",
+    "category": "Capsules",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "EMDRC05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "CETRINE 10MG TABS  Cetrizine Tablet",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRC08",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "CIPROLET 500MG TABS  Ciprofloxacin Tab 500mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRF02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "FINAST 5MG TABLETS  Finasteride BP",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMDRO10",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "KETOROLGEL  Ketorolac Thromethamine",
+    "category": "Gel",
+    "packSize": "30 G"
+  },
+  {
+    "itemCode": "EMDRO05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "OMEZ 20MG CAPS  Omeprazole 20mg",
+    "category": "Capsules",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRR10",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "RECLIDE 80MG TABLETS  Gliclazide 80mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRR13",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "RECLIDE MR 30MG TABS  Gliclazide 30mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRR14",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "RECLIDE MR 60MG TABS  Gliclazide 60mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRR12",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "RESILO 50MG TABLETS  Losartan Potassium 50mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMDRS03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "DR.REDDY S LABORATORIES LTD.",
+    "name": "STAMLO 5MG TABS  Amlodipine Besilate 5mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMFE002",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "AURORA 10MG TABLETS  Rosuvastain 10mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMFE003",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "AURORA 20MG TABLETS  Rosuvastain 20mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMFE001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "AURORA 5MG TABLETS  Rosuvastain 5mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMFE006",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "CLARION 125MG/5ML SUSPENSION  Clarithromycin",
+    "category": "Suspension",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMFE004",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "CLARION 250MG TABLETS  Clarithromycin 250Mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMFE005",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "CLARION 500MG TABLETS  Clarithromycin 500Mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMFE010",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "ICON 100MG CAPSULES  Itraconazole",
+    "category": "Capsules",
+    "packSize": "20S"
+  },
+  {
+    "itemCode": "EMFE011",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "ORION 10MG TABLETS  Olmesartan medoxomil 10mg",
+    "category": "Tablets",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "EMFE012",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "ORION 20MG TABLETS  Olmesartan medoxomil 20mg",
+    "category": "Tablets",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "EMFE017",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "RIFAXA 200MG TABLETS  Rifaximin 200mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMFE018",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "RIFAXA 550MG TABLETS  Rifaximin 550mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMFE022",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "SITAGEN 100MG TABLETS  Sitagliptin 100mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMFE021",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "SITAGEN 25MG TABLETS  Sitagliptin 25mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "EMFE020",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "FEROZSONS LAB",
+    "name": "SITAGEN 50MG TABLETS 30S  Sitagliptin 50mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "GEP0001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "GENIX PHARMA PVT LTD",
+    "name": "HEAMIC CAPSULES 500MG  tranexamic acid 500mg",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMING03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "GETCET 5MG TABS",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMING01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "GLITROL CR 30MG TABS",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMING02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "GLITROL CR 60MG TABS",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMINP01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "PROGLUTROL 500MG TABS",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMINS02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "SEGABIN SR 150MG TABLETS 100S",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMINS01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "SEGABIN SR 75MG TABLETS 100S",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMINZ02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "ZEM XL 120MG TABS",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMINZ01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "INVENTIA HEALTH CARE",
+    "name": "ZEM XL 90MG TABS",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PE1207",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MACLEODS PHARMACEUTICALS LTD",
+    "name": "ORASPAS TABS 10MG",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "PE1206",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MACLEODS PHARMACEUTICALS LTD",
+    "name": "P T U TABS 50MG  Propylithiouracil BP Tablets 50mg",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMML001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MEDIBIOS LABORATORIES",
+    "name": "BESTFLO 0.4MG CAPSULES  Tamsulosion Hydrochloride",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMML002",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MEDIBIOS LABORATORIES",
+    "name": "CETRICON 10MG TABLETS  Cetrizine Dihydrochloride",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMML003",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MEDIBIOS LABORATORIES",
+    "name": "CLARIMATE 250 TABLETS  Clarithromycin 250Mg",
+    "category": "Tablets",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "EMML004",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MEDIBIOS LABORATORIES",
+    "name": "CLARIMATE 500 TABLETS  Clarithromycin 500Mg",
+    "category": "Tablets",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "EMML009",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "MEDIBIOS LABORATORIES",
+    "name": "FLUTEX 20MG CAPSULES  Fluoxetine 20Mg",
+    "category": "Capsules",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "MS0012",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "O B S INTERNATIONAL",
+    "name": "SINEMET 275MG TABLETS",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "MS0013",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "O B S INTERNATIONAL",
+    "name": "TRYPTANOL TABLETS  Amitriptyline HCL",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMRA14",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RANBAXY",
+    "name": "ROSUVAS 10MG 30 S  rosuvastatin",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMRA13",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RANBAXY",
+    "name": "ROSUVAS 20MG 30 S  rosuvastatin",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMRA07",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RANBAXY",
+    "name": "STANLIP TAB 160MG  Fenofibrate 160mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMREA01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "ALPHAPRESS TABLETS 1MG  Prazosin Hydrochloride 1mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMREB01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "BIGMET TABLET 500MG  Metformin Hydrochloride",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMREC03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "CECLOFEN 100MG TABS  Aceclofenac 100mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMREC01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "CELOX R 100MG CAPSULES  Celecoxib 100mg",
+    "category": "Capsules",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "EMREC02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "CELOX R 200MG CAPSULES  Celecoxib 200mg",
+    "category": "Capsules",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "EMREF02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "FENADIN TAB 120MG  Fexofenadine Hydrochloride",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "EMREG01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "GIANE TABLET 35MG",
+    "category": "Tablets",
+    "packSize": "21 S"
+  },
+  {
+    "itemCode": "EMREL03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "LUCAN R 150MG CAPS  Fluconazole",
+    "category": "Capsules",
+    "packSize": "12 S"
+  },
+  {
+    "itemCode": "EMREM01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "MAXPRO 20MG TABLET  Esomeprazole 20mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMREM02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "MAXPRO 40MG TABLET  Esomeprazole 40mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMREN02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "NEUROTONE 200MG TABS  Thiamine+Pyridoxine+Cyanocobalamine",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMRER04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "ROLAC 10MG TABLET  Ketrolac 10mg",
+    "category": "Tablets",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "EMRET03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "TIBION 2.5MG TABLET",
+    "category": "Tablets",
+    "packSize": "28 S"
+  },
+  {
+    "itemCode": "EMREX01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "XAMIC 500MG  Tranexamic Acid",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMREZ03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "ZITHRIN SUSPENTION 15ML  Azitromycin 200mg/5ml",
+    "category": "Suspension",
+    "packSize": "15 ML"
+  },
+  {
+    "itemCode": "EMREZ05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "ZITHRIN SUSPENTION 35ML  Azitromycin 200mg/5ml",
+    "category": "Suspension",
+    "packSize": "35 ML"
+  },
+  {
+    "itemCode": "EMREZ02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "ZITHRIN TABLET 500MG  Azitromycin 500mg",
+    "category": "Tablets",
+    "packSize": "12 S"
+  },
+  {
+    "itemCode": "EMREZ07",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RENATA LIMITED",
+    "name": "ZITHRINE 250MG CAPSULES  Azitromycin 200mg",
+    "category": "Capsules",
+    "packSize": "12 S"
+  },
+  {
+    "itemCode": "EMRX001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "RX MANUFACTURING CO LTD",
+    "name": "AIR X 80 TABLETS",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "SLC0001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SCHERING LIFE SCIENCE PVT LTD",
+    "name": "REJUCALCIUM TAB  150",
+    "category": "Tablets",
+    "packSize": "150S"
+  },
+  {
+    "itemCode": "EMSH001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "BCLOTIS INHALER 100MCG - HFA  Beclomethasone inhaler",
+    "category": "Inhaler",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMSH002",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "BCLOTIS INHALER 250MCG - HFA  Beclomethasone inhaler",
+    "category": "Inhaler",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMSH019",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "BUDEMATE NS 64MCG  Budesonide Aquenous",
+    "category": "Other",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMSH008",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "FLOWHALER DRY POWDER INHALER  Dry powder inhaler",
+    "category": "Inhaler",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMSH011",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "FLUTIMATE NS 50  Fluticasone Propionate Nasal spray",
+    "category": "Nasal Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMSH012",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "FORMOFORTE 400DPI CAPSULES  Formoterol Fumarate + Budesonide",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMSH013",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "NITRIL SPRAY 0.4MG  Nitroglycerin spray",
+    "category": "Spray",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "EMSH014",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "SALBUTIS INHALER 100- HFA  Salbutamol Pressurized BP",
+    "category": "Inhaler",
+    "packSize": "200 DOSES"
+  },
+  {
+    "itemCode": "EMSH018",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SHANDONG JEWIM PHARMA",
+    "name": "ZOLMIT NS 2.5 MG  Zolmitriptan",
+    "category": "Other",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMDI001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN - RBX",
+    "name": "DICAL D 5*10  vitamin D3+zinc",
+    "category": "Supplement",
+    "packSize": "5*10 S"
+  },
+  {
+    "itemCode": "EMTH001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN - RBX",
+    "name": "THEALIFE TAB 5*10  L-theanine",
+    "category": "Tablets",
+    "packSize": "5*10 S"
+  },
+  {
+    "itemCode": "SUNAT02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "ATTENTROL 18MG  Atomoxetine",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "SUNAT03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "ATTENTROL 25MG  Atomoxetine",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "SUBO01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "BUPRON SR 150MG TABLET  Bupropion Sustained release 150Mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "SULE03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "LEVIPIL 1GM TABS  Levetiracetam 1g",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SULE06",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "LEVIPIL 250MG TABLET  Levetiracetam 250mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "SULE01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "LEVIPIL 500MG TABS  Levetiracetam 500mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SULE07",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "LEVIPIL XR 500MG TABS 30S  Levetiracetam 500mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SULI01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "LITHOSUN SR 400MG  Lithium Carbonate 400mg",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SUPR01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "PRODEP CAPS 20MG  Fluoxetine HCL 20mg",
+    "category": "Capsules",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "SUQU01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "QUTIPIN 100MG  Quetiapine Fumarate 100mg",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SUQU03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "QUTIPIN 25MG  Quetiapine Fumarate 25mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SUQU05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "QUTIPIN 300MG  Quetiapine Fumarate 300mg",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SUSY01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "SYNDOPA 275MG  Levodopa + Carbidopa 275mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SUSY02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "SYNDOPA CR 200MG  Levodopa + Carbidopa C.R 250mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SUSY03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "SYNDOPA PLUS TABS  Levodopa + Carbidopa C",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SUVE03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "VENIZ XR 150MG CAPS  Venlafaxine 150mg",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SUVE02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "VENIZ XR 75MG CAPS  Venlafaxine 75mg",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SUZO03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "ZOSERT 100 TABS  Sertraline 100mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SUZO02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "ZOSERT 25 TABS  Sertraline 25mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SUZO01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SUN PHARMA",
+    "name": "ZOSERT 50 TABS  Sertraline 50mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYSU05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "ADMENTA 10MG TABS  Memantine Hydrochloride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYSU06",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "ADMENTA 5MG TABS  Memantine Hydrochloride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYDU02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "DUZELA 20MG CAPS  duloxetine hydrochloride",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYDU01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "DUZELA 30MG CAPS  duloxetine hydrochloride",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYDU03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "DUZELA 60MG CAPS  duloxetine hydrochloride",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYEN06",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "ENCORATE CHRONO 200MG  Sodium Valproate 200mg",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYEN05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "ENCORATE CHRONO 300MG  Sodium Valproate CR 300mg",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYMO04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "MONTEK 10MG 30S  montelukast 10mg",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "SYMO07",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "MONTEK 5MG TABS  Montelukast Sodium 5mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYNE02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "NEXITO 10MG TABS  Escitalopram 10mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYNE01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "NEXITO 20MG TABS  Escitalopram 20mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYNE03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "NEXITO 5MG TABS  Escitalopram 5mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYOX01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "OXETOL 150MG TABS  Oxcarbazepine 150mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYOX02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "OXETOL 300MG TABS  Oxcarbazepine 300mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYRO01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "ROPARK 0.25MG TABS  Ropinirole Hydrochloride 0.25mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYRO02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "ROPARK 0.5MG TABS  Ropinirole Hydrochloride 0.5mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYSI02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "SIZODON 2MG TABS  Risperidone 2mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYSI05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "SIZOPIN 100MG TABS  Clozapine 100mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYSU01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "SULPITAC 100MG TABS  Amisulpride 100mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYSU02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "SULPITAC 200MG TABS  Amisulpride 200mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYSU03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "SULPITAC 300MG TABS  Amisulpride 300mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYTO03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "TOPIROL 100MG  Topiramate 100mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYTO01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "TOPIROL 25MG  Topiramate 25mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYTO05",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYMBIOSIS",
+    "name": "TOPIROL 50MG TABLETS  Topiramate 30mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "SYCE01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "CETRIZET 10MG TABS  Cetrizine 10mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "SYCI01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "CITOPAM 10MG TABS  Citalopram 10mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYDA13",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "DAZOLIC 500MG  Ornidazole 500Mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "SYLA01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "LAMOSYN 100MG TABS  Lamotrigine 100mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYLA02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "LAMOSYN 25MG TABS  Lamotrigine 25mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYLA03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "LAMOSYN 50MG TABS  Lamotrigine 50mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYMI01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "MIRTAZ 15MG TABS  Mirtazapine 15mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYOL02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "OLEANZ 10MG TABS  Olenzapine 10mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYOL01",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "OLEANZ 5MG TABS  Olanzapine 5mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYOL03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "OLEANZ RAPI 10MG TABS  Olanzapine Rapi Tab 10mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYOL04",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "OLEANZ RAPI 5MG TABS  Olanzapine Rapi Tab 5mg",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "SYPR03",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "PRAMIPEX 0.5MG TABS  Pramipexole Dihydrochloride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SYPR02",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "SYNERGY",
+    "name": "PRAMIPEX 1MG TABS  Pramipexole Dihydrochloride",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "EMTA002",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "TAIAN CHARACTER LTD",
+    "name": "AEROMATE PLUS  Aeromate Inhaler",
+    "category": "Inhaler",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMTS0007",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "GRAVINATE 50MG  DIMENHYDRINATE",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMTS0001",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "LAMNET 100  LAMOTRIGINE",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMTS0008",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "LAMNET 25MG  LAMOTRIGINE",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMTS0009",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "LAMNET 50MG  LAMOTRIGINE",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMTS0010",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "LUMARK 250MG  LEVETIRACETAM",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMTS0002",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "LUMARK 500  LEVETIRACETAM",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMTS0005",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "SERENACE TAB 5  HALOPERIDOL",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMTS0012",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "ZENBAR 20MG 14S  DULOXETINE",
+    "category": "Soap",
+    "packSize": "14S"
+  },
+  {
+    "itemCode": "EMTS0006",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "ZENBAR 30  DULOXETINE",
+    "category": "Soap",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMTS0013",
+    "company": "EMERCHEMIE NB ( CEYLON ) LTD.",
+    "range": "THE SEARLE COMPANY",
+    "name": "ZENBAR 60MG 10S  DULOXETINE",
+    "category": "Soap",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "CFL139",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ADCOCK",
+    "name": "LANALOK CREAM 30G  luliconazole",
+    "category": "Cream",
+    "packSize": "30G"
+  },
+  {
+    "itemCode": "ALP013",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "ACNEVIT ANTI ACNE CLEANSING GEL",
+    "category": "Gel",
+    "packSize": "200 ML"
+  },
+  {
+    "itemCode": "ALP012",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "ACNEVIT ANTI ACNE SERUM",
+    "category": "Serum",
+    "packSize": "30ML"
+  },
+  {
+    "itemCode": "ALP022",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO AHA PEELING GLY ACID 8% SERUM 30ML",
+    "category": "Serum",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP032",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BALA CAFEINE SOLU 30ML",
+    "category": "Other",
+    "packSize": "50ML"
+  },
+  {
+    "itemCode": "ALP034",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BALA HYDRATOR CREAM 50ML",
+    "category": "Cream",
+    "packSize": "50ML"
+  },
+  {
+    "itemCode": "ALP031",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BALA PURE RETINOL SERUM 30ML",
+    "category": "Serum",
+    "packSize": "30ML"
+  },
+  {
+    "itemCode": "ALP040",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BALANCE ZINC SKIN SERUM 30ML",
+    "category": "Serum",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP023",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BETA SOLU PURE SALICYLI ACID 2% 30ML",
+    "category": "Other",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP033",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BLA ASCORBIC ACID PLUS 50ML",
+    "category": "Other",
+    "packSize": "50ML"
+  },
+  {
+    "itemCode": "ALP036",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BLA SUN PROTECTION CREAM 40ML",
+    "category": "Cream",
+    "packSize": "40ML"
+  },
+  {
+    "itemCode": "ALP030",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BLAN SUN SPOT AQUA FUSION",
+    "category": "Other",
+    "packSize": "40ML"
+  },
+  {
+    "itemCode": "ALP002",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO BODY WHITENING CREAM 60ML",
+    "category": "Cream",
+    "packSize": "60 ML"
+  },
+  {
+    "itemCode": "ALP024",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO COLLAGEN VITAMIN C SERUM 30ML",
+    "category": "Serum",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP025",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO HYALURONIC 3D MULTY ACID 1% 30ML",
+    "category": "Other",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP026",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIO PORE DOWNSIZER OLEANOLIC ACID 30ML",
+    "category": "Other",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP028",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIOBALANCE LUMISKIN 4%",
+    "category": "Other",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP027",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "BIOBALANCE VITAMIN C SERUM 10%",
+    "category": "Serum",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "ALP020",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "EPISIVA HAIR RE CREAM 140ML",
+    "category": "Cream",
+    "packSize": "140ml"
+  },
+  {
+    "itemCode": "ALP016",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALPAYA COSMETICS",
+    "name": "FORSCAR SCAR GEL",
+    "category": "Gel",
+    "packSize": "10 ML"
+  },
+  {
+    "itemCode": "GSSM11",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ALTAYLAR - TURKEY",
+    "name": "GS TAPEIT - PINK",
+    "category": "Other",
+    "packSize": "25 CM"
+  },
+  {
+    "itemCode": "NLL08",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ARROWILL A4",
+    "name": "GLUTA FAIR CAP 30S  glutathione",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "NLL10",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ARROWILL A5",
+    "name": "TRIOMEGA 3 6 9  SOFTGEL 60S  omega 3",
+    "category": "Gel",
+    "packSize": "60S"
+  },
+  {
+    "itemCode": "GSBB16",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "B.BRAUN LANKA PVT LTD",
+    "name": "PRONTOSAN SOLUTION 350ML",
+    "category": "Solution",
+    "packSize": "350ML"
+  },
+  {
+    "itemCode": "GSBB17",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "B.BRAUN LANKA PVT LTD",
+    "name": "PRONTOSAN WOUND GEL 30ML",
+    "category": "Gel",
+    "packSize": "30ML"
+  },
+  {
+    "itemCode": "PBL141-A",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "BELCID SUSPENSION  Aluminium Hydroxide",
+    "category": "Suspension",
+    "packSize": "240 ML"
+  },
+  {
+    "itemCode": "PBL153",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "CALTAMIN D TABS  Calcium Carbonate plus Vitamine D Tablets",
+    "category": "Tablets",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "PBL154",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "CALTAMIN PLUS (+) TABS  Calcium Supplement Tablets",
+    "category": "Tablets",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "PBL132",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "FASTUM GEL 2.5% 10G  Ketoprofen",
+    "category": "Gel",
+    "packSize": "10G"
+  },
+  {
+    "itemCode": "PBL130",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "FASTUM GEL 30G  Ketoprofen 2.5%",
+    "category": "Gel",
+    "packSize": "30G"
+  },
+  {
+    "itemCode": "PBL133",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "FLUDAN CAPS 5MG  Flunarizine 5mg",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PBL155",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "BIO PHARMA - THAILAND",
+    "name": "MONEM 1G IV  Meropenam Injection",
+    "category": "Injection",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "CEN151",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "ATREST 0.5MG TABLETS  Alprazolam Tablet",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "CEN126",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "LOSATRUST 25MG  Losartan Potassium BP",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "CEN128",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "LOSATRUST 50MG  Losartan Potassium BP",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "CEN136",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "METOZ 2.5MG  Metolazone USP",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "CEN138",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "METOZ 5MG  Metolazone USP",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "CEN108",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "SINAREST NASAL DROPS  Oxymetazoline Hydrochloride USP",
+    "category": "Nasal Drops",
+    "packSize": "10 ML"
+  },
+  {
+    "itemCode": "CEN134",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "SINAREST PD NASAL DROPS  Oxymetazoline Hydrochloride USP",
+    "category": "Nasal Drops",
+    "packSize": "10 ML"
+  },
+  {
+    "itemCode": "CEN143",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "CENTAUR PHARMACEUTICALS - INDIA",
+    "name": "SPILLAR 25MG TABLETS  Spironolactone",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "CFL133",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "ADCLEAR FACE WASH 60GM",
+    "category": "Wash",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "CFL137",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "COSMELITE CREAM  Hydroquinone + Momentasone + Tretinoin",
+    "category": "Cream",
+    "packSize": "15 GM"
+  },
+  {
+    "itemCode": "CFL108",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "COSVATE CREAM  Clobetasol Propionate Cream 15gm",
+    "category": "Cream",
+    "packSize": "15 GM"
+  },
+  {
+    "itemCode": "CFL120",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "EFATOP PE CREAM  Emolieant Cream 60gm",
+    "category": "Cream",
+    "packSize": "60GM"
+  },
+  {
+    "itemCode": "CFL130",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "FUTOP B CREAM  Fusidic Acid + Betamethasone",
+    "category": "Cream",
+    "packSize": "10 GM"
+  },
+  {
+    "itemCode": "CFL107",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "FUTOP CREAM  Sodium Fusidate Cream 5gm",
+    "category": "Cream",
+    "packSize": "5 GM"
+  },
+  {
+    "itemCode": "CFL110",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "PERNAX AC 2.5 GEL  Benzoyl Peroxide Gel 20gm",
+    "category": "Gel",
+    "packSize": "20 GM"
+  },
+  {
+    "itemCode": "CFL112",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "PERNAX AC 5 PCT GEL  Benzoyl Peroxide Gel 20gm",
+    "category": "Gel",
+    "packSize": "20 GM"
+  },
+  {
+    "itemCode": "CFL134",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "RIFRESH FACE WASH",
+    "category": "Wash",
+    "packSize": "100GM"
+  },
+  {
+    "itemCode": "CFL131",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "COSME PHARMACEUTICALS - INDIA",
+    "name": "ROVATE LOTION  Betamethasone Dipropionate",
+    "category": "Lotion",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "BGMS",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "DIAGNOSTIC GS",
+    "name": "BG PRO BL GLUCOSE MACHINE",
+    "category": "Other",
+    "packSize": "BOX"
+  },
+  {
+    "itemCode": "GTS1",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "DIAGNOSTIC GS",
+    "name": "BG PRO BLOOD GLUCOSE STRIP",
+    "category": "Tablets",
+    "packSize": "25 S"
+  },
+  {
+    "itemCode": "FDN144",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "BRISOTOL 2.5 MG 30S  Bisprolol",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "FDN135",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "ETOROCZIA 60MG TABS  Etorocoxib 60mg",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "FDN100",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "NIFIN TAB ER 20MG  Nifedipine Tablets SR 20mg",
+    "category": "Other",
+    "packSize": "200 S"
+  },
+  {
+    "itemCode": "PLE125",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "ROSU 10MG  Rosuvastain 10mg",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "FDN126",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "ROSU 20MG  Rosuvastain 20mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "PLE124",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "ROSU 5MG  Rosuvastain 5mg",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "FDN122",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "SRIMET SR 500MG TABS  Metformin Tablet",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "FDN062",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "FREDUN PHARMACEUTICALS - INDIA",
+    "name": "TAZIN 4.5 IV",
+    "category": "Syrup",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "TIL08",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "AMINOPLUS CAPS",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "TIL14",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "AMINOPLUS Syrup",
+    "category": "Capsules",
+    "packSize": "200ML"
+  },
+  {
+    "itemCode": "TIL11",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "ASTYMIN-3 INJ 200ML",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "TIL05",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "BIFILAC CAPS - 10S  Probiotic Capsule",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "TIL02",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "BIFILAC GRANULES SACHETS  Probiotic Sachet",
+    "category": "Other",
+    "packSize": "15 S"
+  },
+  {
+    "itemCode": "TIL03",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "COBA-1000 INJ 10ML  Cyanocobalamin 1000 MCG",
+    "category": "Supplement",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "SNZ01",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER - HEALTH CARE",
+    "name": "PUBERGEN 5000 INJ",
+    "category": "Tablets",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "TIL16",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "G S CONSUMER HEALTH",
+    "name": "TOCOSULES CAP 400MG  Vitamin E",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "GEN004",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "GENERAL PHARMA",
+    "name": "BOST TAB (VIT B1, B6, B12)",
+    "category": "Tablets",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "GEN012",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "GENERAL PHARMA",
+    "name": "ZENTOCOX 120MG  Etoricoxib Tablet 120mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "GEN002",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "GENERAL PHARMA",
+    "name": "ZENTOCOX 60MG  Etoricoxib Tablet 60mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "GEN011",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "GENERAL PHARMA",
+    "name": "ZENTOCOX 90MG  Etoricoxib Tablet 90mg",
+    "category": "Tablets",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "GDA002",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "GLOBAL DENTAIDS PVT LTD",
+    "name": "STIM ORTHO MB BRUSH",
+    "category": "Other",
+    "packSize": ""
+  },
+  {
+    "itemCode": "GDA007",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "DENTAL FLOSS (STIM EX FLOSS) 30",
+    "category": "Other",
+    "packSize": "30-MTS"
+  },
+  {
+    "itemCode": "PIC009",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "FIXON POWDER 15GM  Dencture Adehiver Powder",
+    "category": "Other",
+    "packSize": "15GM"
+  },
+  {
+    "itemCode": "PIC015",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "FLUORITOP 160ML  Sodium Fluoride & Acidulated Phospate",
+    "category": "Other",
+    "packSize": "160ML"
+  },
+  {
+    "itemCode": "PIC013-A",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "HEXIDINE 160ML  Chlorhexidine Gluconate 0.2%",
+    "category": "Other",
+    "packSize": "160ML"
+  },
+  {
+    "itemCode": "PIC012",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "HEXIDINE 80ML  Chlorhexidine Gluconate 0.2%",
+    "category": "Other",
+    "packSize": "80ML"
+  },
+  {
+    "itemCode": "PIC010",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "HEXIGEL 15GM  Chlorhexidine Glconate 1%",
+    "category": "Gel",
+    "packSize": "15GM"
+  },
+  {
+    "itemCode": "PIC011-A",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "MUCOPAIN 15GM  Benzocain 20%",
+    "category": "Other",
+    "packSize": "15GM"
+  },
+  {
+    "itemCode": "GDA003",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "STIM PROXA L-T (GREEN)",
+    "category": "Other",
+    "packSize": "6 S"
+  },
+  {
+    "itemCode": "PIC001",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "ICPA HEALTH PRODUCTS LTD - INDIA",
+    "name": "THERMOSEAL TOOTHPASTE 50GM  10% Strontium Chloride",
+    "category": "Other",
+    "packSize": "50GM"
+  },
+  {
+    "itemCode": "VIR004",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "CLASIPRO SUSPENSION 5ML  Bacillus Clausii Spores Suspension",
+    "category": "Suspension",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "LAC005",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "COLONCARE - SACHETS  Pre & Probiotic Sachet",
+    "category": "Other",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "LAC003",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "COQ-TEN- 100 - TAB  Coenzyme Q10(Ubiquinone) 100mg with Piperine",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "LAC008",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "FOSCAL - TABS  Calcium, Vit D3, Zinc & other Minerals",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "LAC002",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "LACTO DHA CAPSULES  DHA Rich Algal Oil 256mg and Vit D3",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "LAC007",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "LACTOMEGA - CAP  Omega 3 Fatty acids 1000mg & Vit-E",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "LAC006",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LACTONOVA NUTRIPHARM PVT LTD - INDIA",
+    "name": "LYCOTEN FORTE -TAB  Vitamins & Minerals",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "CAR005",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LANMED PVT LTD",
+    "name": "FUSIWAY B CREAM 15G  Fusidic Acid + Betamethasone",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "CAR011",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LANMED PVT LTD",
+    "name": "FUSIWAY CREAM 5G 1S  Fusidic acid+Hydrcortisone acetate",
+    "category": "Cream",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "CAR006",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "LANMED PVT LTD",
+    "name": "FUSIWAY H CREAM 15G  Fusidic Acid2%+Hydrocortisone 1% Cream",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "MEDO02",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "N.B.Q.MEDOCHEMIE",
+    "name": "ARFEN SUPPO. 125MG  parcetamol",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "MEDO03",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "N.B.Q.MEDOCHEMIE",
+    "name": "ARFEN SUPPO. 250MG  parcetamol",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "MEDO04",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "N.B.Q.MEDOCHEMIE",
+    "name": "ARFEN SUPPO. 500MG  parcetamol",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "PNQ014",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "BIOLYSINE SYRUP 120ML  Vitamin B Complex with Lysine",
+    "category": "Syrup",
+    "packSize": "120ML"
+  },
+  {
+    "itemCode": "PNQ013",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "COLOSPAS  TABS 135MG  Mebeverine Hydrochloride",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PNQ047",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "COLOSPAS FIBRO SACHET  Mebeverine HCL + Ispaghula Husk",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "PNQ032",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "ES - LOPROT CAPS 20MG  Esomeprazole 20mg",
+    "category": "Capsules",
+    "packSize": "14 S"
+  },
+  {
+    "itemCode": "PNQ033",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "ES - LOPROT CAPS 40MG  Esomeprazole 40mg",
+    "category": "Capsules",
+    "packSize": "14 S"
+  },
+  {
+    "itemCode": "PNQ042",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "IRPO FA TABS  Iron Polymoltose With Folic Acid",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PNQ057",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "IVATAB 5MG 28 S  ivabradine hydrochloride",
+    "category": "Tablets",
+    "packSize": "28 S"
+  },
+  {
+    "itemCode": "PNQ004",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "KLEEN ENEMA LIQUID 135ML  Sodium Biphospate",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "PNQ023",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "KLODIC TABS 50MG  Diclofenac Potasium",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PNQ048",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NABIQASIM INDUSTRIES ( PVT ) LTD - PAKISTAN",
+    "name": "NEUROGAB 100MG CAPS  Gabapentin 100mg",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "GS3556",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NESTRADE SALES (Nestle)",
+    "name": "S-26 GOLD 1 400G  Starter Infant Milk Formula for 0 – 6 months",
+    "category": "Other",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "GS3561",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "NESTRADE SALES (Nestle)",
+    "name": "S-26 GOLD 2 400G  Follow Up Milk Formula for 6 – 12 months",
+    "category": "Syrup",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "PP114",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "PLATINUM PHARMA - PAKISTAN",
+    "name": "BRETHIN SYRUP 60ML  Terbutaline Sulfate 1.5mg / 5ml",
+    "category": "Tablets",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "PP112",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "PLATINUM PHARMA - PAKISTAN",
+    "name": "BRETHIN TABS 2.5MG  Terbutaline Sulfate",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PP120",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "PLATINUM PHARMA - PAKISTAN",
+    "name": "CLOPIDO TABS 75MG  Clopidogrel Tablets",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "SWISS17",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "SWISS GARNIER",
+    "name": "BISOTAB 5MG 100 S  Bisprolol",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "SWISS04",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "SWISS GARNIER",
+    "name": "ROSWISS TAB 20MG  Rosuvastain 20mg",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "SWISS02",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "SWISS GARNIER",
+    "name": "ROSWISS TAB 5MG  Rosuvastain 5mg",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "PC149",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "TEAM SQUARE C 02",
+    "name": "FOLEE 1MG TABS  Folic Acid",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUN216",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "CILACAR TAB 10MG  Cilnidipine Tab 10mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUN220",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "CILACAR TAB 20MG  Cilnidipine Tab 20mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUN215",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "CILACAR TAB 5MG  Cilnidipine Tab 5mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUN137",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DIATICA TABS 80MG  Gliclazide 80mg",
+    "category": "Gel",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN128",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DICLORAN GEL 20GM  Diclofenac Sodium Gel",
+    "category": "Gel",
+    "packSize": "20GM"
+  },
+  {
+    "itemCode": "PUN138",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DICLORAN GEL 50GM  Diclofenac Sodium Gel",
+    "category": "Other",
+    "packSize": "50GM"
+  },
+  {
+    "itemCode": "PUN129",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DICLORAN SR - 100MG  Diclofenac Sodium",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN104",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DICLORAN SR - 75MG  Diclofenac Sodium",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN119",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DICLORAN TABS 50MG  Diclofenac Sodium",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN132",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "DILCARDIA SR 90MG  Diltiazem SR 90mg",
+    "category": "Syrup",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN187",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "LORID SYRUP 60ML  Loratidine Syrup",
+    "category": "Suspension",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "PUN193",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "MASKACID SUSPENSION  Magaldrate And Simethicone Oral Susp",
+    "category": "Gel",
+    "packSize": "170 ML"
+  },
+  {
+    "itemCode": "PUN130",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "METROGYL GEL 30GM  Metronidazole Gel",
+    "category": "Injection",
+    "packSize": "30GM"
+  },
+  {
+    "itemCode": "PUN101",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "METROGYL INJECTIONS  Metronidazole Iv 100Ml",
+    "category": "Tablets",
+    "packSize": "100 ML"
+  },
+  {
+    "itemCode": "PUN111",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "METROGYL TABS 200MG  Metronidazole 200mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN112",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "METROGYL TABS 400MG  Metronidazole 400mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN192",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "MOVIZ TABS 100MG  Aceclofenac 100mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN136",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "MYOTAN 25MG  Losarten Potassium 25mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN135",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "MYOTAN 50MG  Losarten Potassium 50mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN197",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "NEBILOL 5MG  Nebivolol 5mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN109",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "NICARDIA RETARD 10MG  Nifedipine Retard 10mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN107",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "NICARDIA RETARD 20MG  Nifedipine Retard 20mg",
+    "category": "Other",
+    "packSize": "50 S"
+  },
+  {
+    "itemCode": "PUN110",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "NICARDIA XL 30MG  Nifedipine Extened Released 30mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUN195",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "ORNIGIL 500MG TABLETS  Ornidazole 500Mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN219",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "PANUM 40MG TABS  Pantoprazole 40mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "PUN190",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "PUZICIL TAB 500MG  Azitromycin 500mg",
+    "category": "Cream",
+    "packSize": "6 S"
+  },
+  {
+    "itemCode": "PUN196",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "TERBINOX CREAM 10GM  Terbinafine Hydrochloride Cream 1%",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "PUN189",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "UNIMELO 7.5MG  Meloxicam",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUN147",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNIQUE PHARMACEUTICALS LABORATORIES - INDIA",
+    "name": "VASOLIP 20MG TABS  Atorvastatin 20mg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "UBPL70",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED BIOTECH",
+    "name": "LYORTAM 1G IV",
+    "category": "Capsules",
+    "packSize": "1G"
+  },
+  {
+    "itemCode": "PUL101",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "ENERVON C 30 S  B - Complex with C Flim Caps",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUL138",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "FONT ACTIVE (VANILA) 400G  nutribest milk",
+    "category": "Other",
+    "packSize": "400g"
+  },
+  {
+    "itemCode": "PUL140",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "FONT ACTIVE RENAL HP 90G  nutribest milk",
+    "category": "Other",
+    "packSize": "87G"
+  },
+  {
+    "itemCode": "PUL139",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "FONT ACTIVE RENAL LP 87G  nutribest milk",
+    "category": "Tablets",
+    "packSize": "87G"
+  },
+  {
+    "itemCode": "PUL118",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "OBIMIN FLIM TABS  Multi Vitamin with Folic Acid",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PUL116",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "SOLMUX CAPS 500MG  S - Carboxymethyl Cysteine",
+    "category": "Suspension",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "PUL105",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "SOLMUX FORTE SUSPENSION 60ML  S - Carbaxymethyl Cysteine",
+    "category": "Suspension",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "PUL104",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UNITED LABORATORIES INC - PHILIPPINES",
+    "name": "SOLMUX PEAD SUSPENSION 60ML  S - Carboxymethyl Cysteine",
+    "category": "Tablets",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "ING008",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UPL - ( GENARIC PRODUCTS )",
+    "name": "BELLOID TABS 10MG",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "ING004",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UPL - ( GENARIC PRODUCTS )",
+    "name": "FLUNARIZINE TAB 10MG  Flunarizine 10Mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "ING003",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UPL - ( GENARIC PRODUCTS )",
+    "name": "FLUNARIZINE TAB 5MG  Flunarizine 5Mg",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "ING001",
+    "company": "GEORGE STEUART HEALTH PVT LTD.",
+    "range": "UPL - ( GENARIC PRODUCTS )",
+    "name": "LOGOUT TAB 100MG  Allopurinol",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "FG0097",
+    "company": "INTERPHARM ( PVT ) LTD",
+    "range": "TEAM 04",
+    "name": "PHENYCOF COUGH SYRUP 100ML  Diphenhydramine Hydrochloride Oral Solusion USP",
+    "category": "Syrup",
+    "packSize": "100ML"
+  },
+  {
+    "itemCode": "FG0802",
+    "company": "INTERPHARM ( PVT ) LTD",
+    "range": "TEAM 05",
+    "name": "NASOCLEAR  Nasal Spray / Drops Contains Sodium Chloride I.P",
+    "category": "Nasal Spray",
+    "packSize": "20ML"
+  },
+  {
+    "itemCode": "FG0096",
+    "company": "INTERPHARM ( PVT ) LTD",
+    "range": "TEAM 05",
+    "name": "PHENYCOF JUNIOR 60ML  Diphenhydramine Hydrochloride Oral Solusion USP",
+    "category": "Other",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "FG0169",
+    "company": "INTERPHARM ( PVT ) LTD",
+    "range": "TEAM 06",
+    "name": "THEOFIN TABLETS 125MG PR  Theophylline Tablets USP 125mg",
+    "category": "Tablets",
+    "packSize": "500 S"
+  },
+  {
+    "itemCode": "EMBA001",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BAYER PHARMACEUTICALS",
+    "name": "KERENDIA 10MG 14 S  finerenone",
+    "category": "Other",
+    "packSize": "14 s"
+  },
+  {
+    "itemCode": "EMBH001",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "CARBOPLAT 150MG IV  Carboplatin injection",
+    "category": "Injection",
+    "packSize": "150MG"
+  },
+  {
+    "itemCode": "EMBH002",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "CARBOPLAT 450MG IV  Carboplatin injection",
+    "category": "Injection",
+    "packSize": "450MG"
+  },
+  {
+    "itemCode": "EMBH005",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "GEMOXEN 1G  Gemcitabine 1g injection",
+    "category": "Injection",
+    "packSize": "1G"
+  },
+  {
+    "itemCode": "EMBH015",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "GEMOXEN 200MG INJ  Gemcitabine 200mcg injection",
+    "category": "Injection",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBH014",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "PALOXI 0.5MG TABLETS  Palnosetron inj",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMBH012",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "XITABIN 500MG TAB  Capecitabin 500mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMBH013",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEACON PHARMACEUTICALS LTD",
+    "name": "XORUBIN 50MG INJECTION  Doxorubicin 50mg",
+    "category": "Injection",
+    "packSize": "1G"
+  },
+  {
+    "itemCode": "EMBE001",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "ARLIN 600MG TABLETS  Linezolid 600mg",
+    "category": "Tablets",
+    "packSize": "20S"
+  },
+  {
+    "itemCode": "EMBE008",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "AZMASOL HFA Aerosol inhalation 100g  Salbutamol Pressurized BP",
+    "category": "Other",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBE033",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "AZMASOL SYRUP  Salbutamol",
+    "category": "Syrup",
+    "packSize": "100ML"
+  },
+  {
+    "itemCode": "EMBE020",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "BEXDIAN 10MG 20 S  empagliflozin",
+    "category": "Other",
+    "packSize": "20 S"
+  },
+  {
+    "itemCode": "EMBE045",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "BEXDIAN 25MG 10 S  empagliflozin",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMBE009",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "BEXITROL-F 25/125 HFA Aerosol Inhalation  Salmeterol BP & Fluticasone",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "EMBE010",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "BEXITROL-F 25/250 HFA Aerosol Inhalation  Salmeterol BP & Fluticasone",
+    "category": "Other",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "EMBE011",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "COX B 100 CAPSULES  Celecoxib 100mg",
+    "category": "Capsules",
+    "packSize": "50S"
+  },
+  {
+    "itemCode": "EMBE012",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "COX B 200 CAPSULES  Celecoxib 200mg",
+    "category": "Capsules",
+    "packSize": "50S"
+  },
+  {
+    "itemCode": "EMBE013",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "DECOMIT NASAL SPRAY  Beclomethasone Dipropionate",
+    "category": "Nasal Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBE041",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "DEFLUX 10MG TABLETS 150S",
+    "category": "Tablets",
+    "packSize": "150S"
+  },
+  {
+    "itemCode": "EMBE015",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "KEOLAX 10MG TABLETS  Clobazam 10mg",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMBE016",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "MOMENTO 2.5MG/5ML SYRYP  Desloratadine syrup",
+    "category": "Syrup",
+    "packSize": "60ML"
+  },
+  {
+    "itemCode": "EMBE017",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "MOMENTO 5MG TABLETS  Desloratadine 5mg",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMBE034",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "MONOCAST 10MG TABLETS  Montelukast 10mg",
+    "category": "Tablets",
+    "packSize": "20S"
+  },
+  {
+    "itemCode": "EMBE040",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "MONOCAST 5MG TABLETS  Montelukast 5mg",
+    "category": "Tablets",
+    "packSize": "20S"
+  },
+  {
+    "itemCode": "EMBE023",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "NASOMET NASAL SPRAY  Mometasone Furoate",
+    "category": "Nasal Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBE024",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "NAZOLIN NASAL SPRAY  Oxymetazoline Hydrochloride",
+    "category": "Nasal Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBE025",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "NITROSOL AEROSOL SPRAY  Nitroglycerin spray",
+    "category": "Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBE027",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "OMASTIN CAPSULES 150MG  Fluconazole",
+    "category": "Capsules",
+    "packSize": "20S"
+  },
+  {
+    "itemCode": "EMBE026",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "OMASTIN CAPSULES 50MG  Fluconazole",
+    "category": "Capsules",
+    "packSize": "50S"
+  },
+  {
+    "itemCode": "EMBE028",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "OPTON TABLETS 20MG  Esomeprazole 20mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMBE030",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "PERINASE NASAL SPRAY  Fluticasone Furoate",
+    "category": "Nasal Spray",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMBE035",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "RIBOX 60 TABLETS  Etoricoxib Tablet 60mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMBE036",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "RIBOX 90 TABLETS  Etoricoxib Tablet 90mg",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMBE032",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "BEXIMCO PHARMA LTD",
+    "name": "TRANETA 5MG TABLETS  Linaglitin",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EL002",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMAMI LANKA (PVT) LTD",
+    "name": "ZANDU BALM 25ML",
+    "category": "Other",
+    "packSize": "25ML"
+  },
+  {
+    "itemCode": "FG0936",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMCURE PHARMA LTD",
+    "name": "OROFER DROPS  Iron (III) Hydroxide Polymaltose Drops",
+    "category": "Drops",
+    "packSize": "15 ML"
+  },
+  {
+    "itemCode": "FG0918",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMCURE PHARMA LTD",
+    "name": "OROFER SYRUP  Iron (III) Hydroxide Polymaltose Syrup",
+    "category": "Syrup",
+    "packSize": "150 ML"
+  },
+  {
+    "itemCode": "EMEM004",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "FLUTIHALE 250 DPI CAPSULES  Salmeterol BP & Fluticasone",
+    "category": "Capsules",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMEM005",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "FLUTIHALE 500 DPI CAPSULES  Salmeterol BP & Fluticasone",
+    "category": "Capsules",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMEM022",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "FLUTIHALE NS 50  Fluticasone Propionate Nasal spray",
+    "category": "Nasal Spray",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMEM006",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "FORMOHALE 200 DPI CAPSULES  Formoterol Fumarate + Budesonide",
+    "category": "Capsules",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMEM007",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "FORMOHALE 400 DPI CAPSULES  Formoterol Fumarate + Budesonide",
+    "category": "Capsules",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMEM014",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "FUNGIZAP 100 CAPSULES  Itraconazole 100mg",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMEM008",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "SALHALE 200DPI CAPSULES  Salbutamol",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMEM009",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "SALHALE 400DPI CAPSULES  Salbutamol",
+    "category": "Capsules",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMEM010",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "SLICKHALER",
+    "category": "Other",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMEM013",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "TIOHALE 18 DPI CAPSULES",
+    "category": "Capsules",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMEM025",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "EMERGEN LIFE SCIENCES",
+    "name": "URIFLO 0.4MG CAP 100S  Tamsulosion Hydrochloride",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMMMM04",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "MULTIBIONTA M  CAPS",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMMMN02",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "NEOPROX 250MG TABS",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMMMN04",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "NEOPROX 500MG TABS",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMMMN03",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "NEUROBION TABS",
+    "category": "Tablets",
+    "packSize": "50S"
+  },
+  {
+    "itemCode": "EMMMN05",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "NIDONIL 80MG CAPS 30S",
+    "category": "Capsules",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMMMP04",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "P CAM GEL 0.05%",
+    "category": "Gel",
+    "packSize": "25G"
+  },
+  {
+    "itemCode": "EMT01",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "TIZOREL 2MG TABS  Tizanidine 2mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "EMMMT02",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MARTIN DOW MARKER",
+    "name": "TIZOREL 4MG TABS  Tizanidine 4mg",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "EMME001",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "ANEMIDOX CAPSULES  Iron,Vitamins,Minerals",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME007",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "CONCOR 2.5MG TABLETS  Bisoprolol Fumarate",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME008",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "CONCOR 5MG TABLETS  Bisoprolol Fumarate",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME012",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "COSOME SYRUP",
+    "category": "Syrup",
+    "packSize": "100ML"
+  },
+  {
+    "itemCode": "EMME025",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "EUTHYROX 100MCG  Levothyroxine Sodium 100mcg",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMME027",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "EUTHYROX 25MCG",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMME026",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "EUTHYROX 50MCG  levocetirizine dihydrochloride",
+    "category": "Other",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "EMME014",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "EVION 200 CAPSULES  VITAMIN E",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME015",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "EVION 400 CAPSULES  VITAMIN E",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME016",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "EVION 600MG CAPSULES  VITAMIN E",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME017",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "MAXEPA CAPSULES  Omega 3 Fatty acid",
+    "category": "Capsules",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "EMME019",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "NASIVION A NASAL DROP  Oxymetazoline Hydrochloride",
+    "category": "Nasal Drops",
+    "packSize": "10ML"
+  },
+  {
+    "itemCode": "EMME020",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "NASIVION P NASAL DROP  Oxymetazoline Hydrochloride",
+    "category": "Nasal Drops",
+    "packSize": "10ML"
+  },
+  {
+    "itemCode": "EMME022",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK INDIA LTD",
+    "name": "POLYBION SYRUP 250 ML",
+    "category": "Syrup",
+    "packSize": "250ML"
+  },
+  {
+    "itemCode": "EMMMS03",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK MARKER LIMITED",
+    "name": "GLUCOPHAGE XR 1000MG  Metformin Hydrochloride",
+    "category": "Other",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "EMMGL001",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "MERCK MARKER LIMITED",
+    "name": "GLUCOPHAGE XR 500 MG  Metformin Tablet",
+    "category": "Tablets",
+    "packSize": "60S"
+  },
+  {
+    "itemCode": "EMSA03",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANDS ACTIVE (PVT) LTD",
+    "name": "EPIPIL 250MG  Levetiracetam 250mg",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMSA04",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANDS ACTIVE (PVT) LTD",
+    "name": "EPIPIL 500MG  Levetiracetam 500mg",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMSA09",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANDS ACTIVE (PVT) LTD",
+    "name": "VENAFAX XR 37.5MG 100 S  VENLAFAXINE",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMSA10",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANDS ACTIVE (PVT) LTD",
+    "name": "VENAFAX XR 75MG 100 S",
+    "category": "Other",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "EMSN025",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "BETALOL OPHTHALMIC SOLUTION   Econazole Nitrate",
+    "category": "Ophthalmic",
+    "packSize": "5 ML"
+  },
+  {
+    "itemCode": "EMSN001",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "CO-DORZAL  Darzolamide 2%",
+    "category": "Other",
+    "packSize": "5 ML"
+  },
+  {
+    "itemCode": "EMSN023",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "FUSAC CREAM 5GM  Fusidic Acid",
+    "category": "Cream",
+    "packSize": "5GM"
+  },
+  {
+    "itemCode": "EMS020",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "FUSAC-H CREAM 5G  Fusidic acid+Hydrcortisone acetate",
+    "category": "Cream",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "EMSN003",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "FUSIGEL EYE DROPS  Fusidic Acid eye drop",
+    "category": "Eye Drops",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN004",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "HYLOSAN OPTHALMIC SOLUTION  Sodium Hyaluronate",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN005",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "KETROSAN OPTHALMIC SOLUTION  Ketorolac Thromethamine",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN02",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "LOTEPRED FORTE SUSPENTION",
+    "category": "Suspension",
+    "packSize": "5 ML"
+  },
+  {
+    "itemCode": "EMSN024",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "LOTEPRED T OPTHALMIC SUSPENSION 5ML",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN008",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "MEGAMOX OPTHALMIC SOLUTION  Moxifloxacin",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN006",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "MINODIL 2%  Minoxidil 2%",
+    "category": "Other",
+    "packSize": "60 ML"
+  },
+  {
+    "itemCode": "EMSN007",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "MINODIL 5%  Minoxidil 5%",
+    "category": "Other",
+    "packSize": "60 ML"
+  },
+  {
+    "itemCode": "EMSN021",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "OPTIFLUR OPTH; SUSPEN  Flourometholone",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN012",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "OPTOPRED OPTHALMIC SUSPENSION  Prednisilone Acetate",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN015",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "SANTODEX OPTHALMIC SUSPENSION  Tobramycin + Dexamethasone Solution",
+    "category": "Ophthalmic",
+    "packSize": "5ML"
+  },
+  {
+    "itemCode": "EMSN017",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "TEARS FORTE OPTHALMIC SOLUTION  Dextran 70 + Hydroxypropyl",
+    "category": "Ophthalmic",
+    "packSize": "15ML"
+  },
+  {
+    "itemCode": "EMSN019",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "TROPIC OPHTHALMIC SOLUTION",
+    "category": "Ophthalmic",
+    "packSize": "15ML"
+  },
+  {
+    "itemCode": "EMSN030",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SANTE( PVT) LTD",
+    "name": "XEPAT OPTHALMIC SOLUTION 5ML  olopatadine",
+    "category": "Ophthalmic",
+    "packSize": "5 ML"
+  },
+  {
+    "itemCode": "EMSA004",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SAVA HEALTHCARE LTD",
+    "name": "FLUTAIR FT NASAL SPRAY 6G  Fluticasone Furoate",
+    "category": "Nasal Spray",
+    "packSize": "6G"
+  },
+  {
+    "itemCode": "EMSE002",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "SEVENSEAS",
+    "name": "SEVEN SEAS PUISE TRIOMEGA 60 S  omega 3",
+    "category": "Other",
+    "packSize": "60 S"
+  },
+  {
+    "itemCode": "EMWO01",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "WOCKHARDT LIMITED",
+    "name": "GLARITUS 100IU 3ML cartrdge  Insulin Glargine",
+    "category": "Other",
+    "packSize": "3 ML"
+  },
+  {
+    "itemCode": "EMWO06",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "WOCKHARDT LIMITED",
+    "name": "WOSULIN 30/70 - 100 IU 10ML INJECTION  Biphasic Isophane injection",
+    "category": "Injection",
+    "packSize": "10ML"
+  },
+  {
+    "itemCode": "EMWO02",
+    "company": "Associated Laboratories Pvt Ltd",
+    "range": "WOCKHARDT LIMITED",
+    "name": "WOSULIN 30/70 - 100 IU 3ML CARTRIGDE  Biphasic Isophane suspension",
+    "category": "Suspension",
+    "packSize": "3ML"
+  },
+  {
+    "itemCode": "MS0198",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "CHARAK",
+    "name": "BELTAPRO OINTMENT  30G  clobetasol propionate",
+    "category": "Ointment",
+    "packSize": "30 G"
+  },
+  {
+    "itemCode": "MS0186",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "CHARAK",
+    "name": "ROST 5MG TABS  rosuvastain",
+    "category": "Tablets",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "MS0103",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "GENO PHARMACEUTICALS",
+    "name": "BETAHIST 8MG TABLETS  Betahistine Dihydochloride",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "MS0206",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "ALZER 5MG 30 S  donepezil hydrochloride",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "MS0167",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "DUTIN 30MG  duloxetine hydrochloride",
+    "category": "Other",
+    "packSize": "28S"
+  },
+  {
+    "itemCode": "MS0211",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "EC-PRAM 10MG  ESCITALOPRAM",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "MS0212",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "EC-PRAM 20MG 30 S  ESCITALOPRAM",
+    "category": "Other",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "MS0169",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "EC-PRAM 5MG  escitalopram",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "MS0161",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "HYPOLIP 20MG TAB  atorvastatin",
+    "category": "Tablets",
+    "packSize": "3*10S"
+  },
+  {
+    "itemCode": "MS0162",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "LAZINE 5MG TAB  levocetirizine dihydrochloride",
+    "category": "Tablets",
+    "packSize": "100S"
+  },
+  {
+    "itemCode": "MS0193",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "LEVIN 500MG 30S  levofloxacin",
+    "category": "Other",
+    "packSize": "10S"
+  },
+  {
+    "itemCode": "MS0194",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "MOXETERO 400MG 30S  moxifloxacin hydrochloride",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "MS0195",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "PREGA 75 MG 30S  pregabalin",
+    "category": "Other",
+    "packSize": "30S"
+  },
+  {
+    "itemCode": "MS0181",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "ROST 10MG TABS  rosuvastain",
+    "category": "Tablets",
+    "packSize": "3*10S"
+  },
+  {
+    "itemCode": "MS0182",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HETERO",
+    "name": "ROST 20MG TABS  rosuvastain",
+    "category": "Tablets",
+    "packSize": "3*10S"
+  },
+  {
+    "itemCode": "MS0139",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HOVID BHD MALAYSIA",
+    "name": "CHEWETTE C 100MG 24*30S  Ascorbic Acid",
+    "category": "Other",
+    "packSize": "24*30S"
+  },
+  {
+    "itemCode": "MS0148",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "HOVID BHD MALAYSIA",
+    "name": "KETOVID SHAMPOO 120ML  ketoconazole",
+    "category": "Other",
+    "packSize": "1S"
+  },
+  {
+    "itemCode": "MS0108",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "ALFINOR 16MG TABLETS  Betahistine Dihydochloride",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "MS0083",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "ALFINOR 8MG TABLETS  Betahistine Dihydochloride",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "MS0038",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "ALMIRAL 50MG TABLETS  Gastro-Resistant Diclofenac",
+    "category": "Tablets",
+    "packSize": "100 S"
+  },
+  {
+    "itemCode": "MS0040",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "ALMIRAL SUPP 100MG  Diclofenac sodium 100mg",
+    "category": "Other",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "MS0086",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "ATALINE SYRUP 100ML  Terbutaline Sulphate",
+    "category": "Syrup",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "MS0085",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "ATALINE TABLETS 2.5MG",
+    "category": "Tablets",
+    "packSize": "500 S"
+  },
+  {
+    "itemCode": "MS0087",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "COSTI 10MG TABLETS  domperidone",
+    "category": "Tablets",
+    "packSize": "500 S"
+  },
+  {
+    "itemCode": "MS0043",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "MEDOCHEMIE",
+    "name": "DUINUM  50MG TABS  Clomifene 50Mg",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "MS0050",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - A",
+    "name": "ARIX TABLETS  Cetirizne Dihydrochoride",
+    "category": "Tablets",
+    "packSize": "10 S"
+  },
+  {
+    "itemCode": "MS0207",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - A",
+    "name": "BELTAPRO CREAM 15G  clobetasol propionate",
+    "category": "Cream",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "MS0057",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - A",
+    "name": "FIXITIL ORAL SUSPENSION  Cefixime Suspension",
+    "category": "Suspension",
+    "packSize": "30 ML"
+  },
+  {
+    "itemCode": "MS0059",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - A",
+    "name": "FUSIL CREAM  Fusidic Acid",
+    "category": "Cream",
+    "packSize": "5 G"
+  },
+  {
+    "itemCode": "MS0125",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - A",
+    "name": "SCABRID LOTION 60ML  Permethrin Lotion",
+    "category": "Lotion",
+    "packSize": "1 S"
+  },
+  {
+    "itemCode": "MS0061",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - B",
+    "name": "FUSIL HC CREAM  Fusidic Acid with Hydrocortisone Acetate",
+    "category": "Cream",
+    "packSize": "5 G"
+  },
+  {
+    "itemCode": "MS0064",
+    "company": "MANSEL CEYLON PVT LTD.",
+    "range": "TABROS PHARMA - B",
+    "name": "ZEEST TABLETS  VITAMIN",
+    "category": "Tablets",
+    "packSize": "30 S"
+  },
+  {
+    "itemCode": "PE1276",
+    "company": "MULLER & PHIPPS (HEALTH CARE) LIMITED",
+    "range": "DREAVIA",
+    "name": "RONTAMEAL NUTRI PRO ACTIVE  nutribest milk",
+    "category": "Other",
+    "packSize": "28G"
+  },
+  {
+    "itemCode": "PEJ034",
+    "company": "MULLER & PHIPPS (HEALTH CARE) LIMITED",
+    "range": "JANSSEN PHARMACEUTICA - BELGIUM",
+    "name": "INVEGA SUSTENNA 150MG  prolonged re sus",
+    "category": "Other",
+    "packSize": "150MG"
+  },
+  {
+    "itemCode": "PEJ031",
+    "company": "MULLER & PHIPPS (HEALTH CARE) LIMITED",
+    "range": "JANSSEN PHARMACEUTICA - BELGIUM",
+    "name": "VERMOX TABLETS 100MG  Mebendazole",
+    "category": "Tablets",
+    "packSize": "6 S"
+  },
+  {
+    "itemCode": "PEJ032",
+    "company": "MULLER & PHIPPS (HEALTH CARE) LIMITED",
+    "range": "JANSSEN PHARMACEUTICA - BELGIUM",
+    "name": "VERMOX TABLETS 500MG  Mebendazole",
+    "category": "Tablets",
+    "packSize": "1 S"
+  }
+]

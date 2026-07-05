@@ -1,0 +1,25 @@
+footer {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.footer-credit {
+  color: var(--color-light-grey);
+  opacity: 0.75;
+}
+
+.footer-credit a {
+  color: inherit;
+  font-weight: 600;
+}
+
+.footer-credit a:hover {
+  color: var(--color-primary);
+}
