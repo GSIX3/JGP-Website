@@ -20,7 +20,7 @@ export const site = {
 
   heroTaglines: [
     "Your Trusted Pharma Partner",
-    "Quality Medicines, Delivered",
+    "Quality Medicines Delivered",
     "Serving Central Province Healthcare",
   ] as const,
 
