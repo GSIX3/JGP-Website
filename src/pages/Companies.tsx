@@ -31,25 +31,27 @@ function CompanyLogo({ company }: { company: CompanyPartner }) {
 export default function Companies() {
   return (
     <section id="companies" className="companies-page">
-      <h1>Companies Who Work With Us</h1>
+      <div className="companies-inner">
+        <h1>Companies Who Work With Us</h1>
 
-      <div className="companies-showcase">
-        <Marquee pauseOnHover speed={35} className="mt-0 [&>div]:py-2">
-          {topRowPartners.map((company) => (
-            <CompanyLogo key={company.name} company={company} />
-          ))}
-        </Marquee>
+        <div className="companies-showcase">
+          <Marquee pauseOnHover speed={35} className="[&>div]:py-4 sm:[&>div]:py-8">
+            {topRowPartners.map((company) => (
+              <CompanyLogo key={company.name} company={company} />
+            ))}
+          </Marquee>
 
-        <Marquee
-          pauseOnHover
-          speed={40}
-          direction="right"
-          className="mt-0 [&>div]:py-2"
-        >
-          {bottomRowPartners.map((company) => (
-            <CompanyLogo key={company.name} company={company} />
-          ))}
-        </Marquee>
+          <Marquee
+            pauseOnHover
+            speed={40}
+            direction="right"
+            className="[&>div]:py-4 sm:[&>div]:py-8"
+          >
+            {bottomRowPartners.map((company) => (
+              <CompanyLogo key={company.name} company={company} />
+            ))}
+          </Marquee>
+        </div>
       </div>
     </section>
   );
