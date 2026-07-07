@@ -40,7 +40,7 @@ export const site = {
   },
 
   seo: {
-    title: "JGP Marketing Services | Pharmaceutical Distribution — Central Province",
+    title: "JGP Marketing Services | Pharmaceutical Distribution",
     description:
       "JGP Marketing Services (Pvt) Ltd — licensed pharmaceutical distribution in Sri Lanka's Central Province. Compliant storage, handling, and delivery of medicines to pharmacies and healthcare institutions.",
     keywords:
