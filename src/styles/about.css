@@ -150,14 +150,15 @@
   }
 
   .about-chairman {
-    order: 0;
+    order: 2;
     width: 100%;
     max-width: 360px;
+    margin-top: 1.5rem;
     margin-bottom: 0.5rem;
   }
 
   .about-image {
-    order: 2;
+    order: 3;
     width: 100%;
     max-width: 360px;
     margin-top: 0.5rem;
