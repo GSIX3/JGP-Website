@@ -17,7 +17,7 @@ function CompanyLogo({ company }: { company: CompanyPartner }) {
       <img
         src={company.logo}
         alt={company.name}
-        loading="lazy"
+        decoding="async"
         className="company-logo-img"
         style={
           {

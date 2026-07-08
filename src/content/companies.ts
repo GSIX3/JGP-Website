@@ -1,14 +1,14 @@
 import baursLogo from "../assets/companies/baurs logo.png";
-import alarisLogo from "../assets/companies/alaris-logo.png";
-import astronLogo from "../assets/companies/astron logo.png";
-import cicLogo from "../assets/companies/CIC_Holdings_logo.png";
-import citihealthLogo from "../assets/companies/cityhealth_logo.png";
-import emerchemieLogo from "../assets/companies/emerchemie_logo.png";
-import georgeSteuartLogo from "../assets/companies/george_steuart_logo.png";
-import interpharmLogo from "../assets/companies/interpharm_logo.png";
-import luthminLogo from "../assets/companies/associated laboratories.png";
-import manselLogo from "../assets/companies/mansel logo.png";
-import mullerLogo from "../assets/companies/muller logo.png";
+import alarisLogo from "../assets/companies/alaris-logo.webp";
+import astronLogo from "../assets/companies/astron logo.webp";
+import cicLogo from "../assets/companies/CIC_Holdings_logo.webp";
+import citihealthLogo from "../assets/companies/cityhealth_logo.webp";
+import emerchemieLogo from "../assets/companies/emerchemie_logo.webp";
+import georgeSteuartLogo from "../assets/companies/george_steuart_logo.webp";
+import interpharmLogo from "../assets/companies/interpharm_logo.webp";
+import luthminLogo from "../assets/companies/associated laboratories.webp";
+import manselLogo from "../assets/companies/mansel logo.webp";
+import mullerLogo from "../assets/companies/muller logo.webp";
 
 export type CompanyPartner = {
   name: string;

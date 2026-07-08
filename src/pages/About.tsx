@@ -36,7 +36,12 @@ export default function About() {
 
         <aside className="about-chairman">
           <div className="about-chairman-photo">
-            <img src={chairmanPhoto} alt="Portrait of J.G.Thilakasiri" />
+            <img
+              src={chairmanPhoto}
+              alt="Portrait of J.G.Thilakasiri"
+              loading="lazy"
+              decoding="async"
+            />
           </div>
           <div className="about-chairman-label">
             <p className="about-chairman-name">J.G.Thilakasiri</p>
