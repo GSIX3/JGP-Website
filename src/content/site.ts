@@ -76,6 +76,45 @@ export const site = {
     ],
   },
 
+  whyChooseUs: {
+    title: "Why Choose Us",
+    subtitle:
+      "Reliable pharmaceutical distribution built around speed, technology, and trust.",
+    imageAlt: "JGP delivery vehicle serving healthcare providers",
+    benefits: [
+      {
+        title: "On-Time Delivery",
+        description:
+          "Scheduled, dependable deliveries to pharmacies and healthcare institutions — so your stock arrives when you need it.",
+      },
+      {
+        title: "Modern Ordering App",
+        description:
+          "Place and track orders anytime through our mobile app — fast reordering, real-time updates, and less paperwork.",
+      },
+      {
+        title: "Licensed & Compliant",
+        description:
+          "GDP-aligned storage, handling, and distribution of pharmaceutical products to meet regulatory standards.",
+      },
+      {
+        title: "Wide Product Range",
+        description:
+          "Prescription medicines, OTC products, generics, and healthcare essentials from licensed manufacturers.",
+      },
+      {
+        title: "Central Province Coverage",
+        description:
+          "Dedicated supply across Kandy and the Central Province with a team that knows your market.",
+      },
+      {
+        title: "Trusted Partner",
+        description:
+          "Years of experience connecting manufacturers with pharmacies and hospitals you can rely on.",
+      },
+    ],
+  },
+
   highlights: [
     {
       title: "Compliant Distribution",

@@ -1,19 +1,26 @@
 import { useEffect, useState } from "react";
 import "../styles/navbar.css";
 import { site } from "../content/site";
-import logo from "../assets/jgp1.jpg";
+import logo from "../assets/jgp_logo.png";
 
 const NAV_LINKS = [
   { id: "home", label: "Home" },
   { id: "about", label: "About" },
   { id: "companies", label: "Companies" },
   { id: "products", label: "Products" },
-  { id: "contact", label: "Contact" },
+  { id: "why-us", label: "Why Us" },
 ] as const;
 
 type SectionId = (typeof NAV_LINKS)[number]["id"];
 
 function getActiveSection(navHeight: number): SectionId {
+  // the last section can be shorter than the viewport, so it may never reach
+  // the probe line — treat reaching the bottom of the page as being on it
+  const scrollBottom = window.innerHeight + window.scrollY;
+  if (scrollBottom >= document.documentElement.scrollHeight - 2) {
+    return NAV_LINKS[NAV_LINKS.length - 1].id;
+  }
+
   const probeLine = navHeight + 24;
   let current: SectionId = "home";
 
@@ -49,7 +56,10 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav>
+    <nav
+      className={`navbar ${activeId === "home" ? "navbar--hero" : ""}`.trim()}
+      aria-label="Main navigation"
+    >
       <a href="#home" className="navbar-brand">
         <img
           src={logo}
