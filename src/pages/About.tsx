@@ -1,13 +1,20 @@
 import "../styles/about.css";
 import { site } from "../content/site";
-import aboutImage from "../assets/img3.jpg";
 import chairmanPhoto from "../assets/avatar/img10.jpg";
+import SectionHeader from "../components/SectionHeader";
 
 export default function About() {
   return (
     <section id="about" className="about-page">
-      <h1>About Us</h1>
-      <p className="about-subtitle">{site.about.subtitle}</p>
+      <SectionHeader
+        title={
+          <>
+            <span className="about-title-accent">About</span>
+            <span className="about-title-dark">Us</span>
+          </>
+        }
+        subtitle={site.about.subtitle}
+      />
 
       <div className="about-content">
         <div className="about-main">
@@ -27,24 +34,17 @@ export default function About() {
           </div>
         </div>
 
-        <div className="about-photos">
-          <div className="about-chairman">
-            <div className="about-chairman-photo">
-              <img
-                src={chairmanPhoto}
-                alt="Chairman of JGP Marketing Services"
-              />
-            </div>
-            <div className="about-chairman-label">
-              <p className="about-chairman-name">J.G.Thilakasiri</p>
-              <p className="about-chairman-title">Chairman</p>
-            </div>
+        <aside className="about-chairman">
+          <div className="about-chairman-photo">
+            <img src={chairmanPhoto} alt="Portrait of J.G.Thilakasiri" />
           </div>
-
-          <div className="about-image">
-            <img src={aboutImage} alt={`${site.name} office`} />
+          <div className="about-chairman-label">
+            <p className="about-chairman-name">J.G.Thilakasiri</p>
+            <p className="about-chairman-title">Chairman</p>
+            <span className="about-chairman-divider" aria-hidden="true" />
+            <p className="about-chairman-company">{site.name}</p>
           </div>
-        </div>
+        </aside>
       </div>
     </section>
   );

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "../styles/products.css";
 import { site } from "../content/site";
+import SectionHeader from "../components/SectionHeader";
 import {
   overviewCategories,
   type Medicine,
@@ -59,15 +60,23 @@ export default function Products() {
 
   return (
     <section id="products" className="products-page">
-      <h1>Product Categories</h1>
-      <p className="products-intro">{site.shortDescription}</p>
+      <div className="products-inner">
+        <SectionHeader
+          title={
+            <>
+              <span className="products-title-accent">Product</span>
+              <span className="products-title-dark">Categories</span>
+            </>
+          }
+          subtitle={site.shortDescription}
+        />
 
-      {loading && <p className="products-status">Loading catalog…</p>}
-      {loadError && (
-        <p className="products-status products-status--error">{loadError}</p>
-      )}
+        {loading && <p className="products-status">Loading catalog…</p>}
+        {loadError && (
+          <p className="products-status products-status--error">{loadError}</p>
+        )}
 
-      <div className="products-grid">
+        <div className="products-grid">
         {overviewCategories.map((category) => {
           const count = categoryCounts.get(category.id) ?? 0;
 
@@ -90,6 +99,7 @@ export default function Products() {
             </article>
           );
         })}
+        </div>
       </div>
     </section>
   );

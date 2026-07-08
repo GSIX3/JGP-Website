@@ -1,35 +1,59 @@
 .about-page {
-  padding: 2rem 1.5rem 2.5rem;
+  position: relative;
+  isolation: isolate;
+  padding: var(--section-padding-y) var(--section-padding-x) 2.25rem;
   max-width: 1100px;
   margin: 0 auto;
+  width: 100%;
+}
+
+.about-page::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  background: linear-gradient(
+    180deg,
+    var(--surface-white) 0%,
+    var(--surface-page) 50%,
+    var(--surface-warm-soft) 100%
+  );
+  pointer-events: none;
 }
 
 .about-page h1 {
-  color: var(--color-primary);
-  text-align: center;
-  margin-bottom: 0.5rem;
+  color: inherit;
 }
 
-.about-subtitle {
-  text-align: center;
-  color: var(--color-dark-grey);
-  margin-bottom: 2rem;
-  font-style: italic;
+.about-title-dark {
+  color: var(--color-black);
+}
+
+.about-title-accent {
+  color: var(--color-primary);
+}
+
+.about-title-dark::before {
+  content: " ";
 }
 
 .about-page p {
-  margin-bottom: 1.25rem;
-  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  line-height: 1.75;
 }
 
 .about-content {
   display: flex;
-  gap: 2.5rem;
+  gap: 3.5rem;
   align-items: flex-start;
 }
 
 .about-main {
-  flex: 1 1 55%;
+  flex: 1 1 auto;
   min-width: 0;
 }
 
@@ -46,28 +70,30 @@
   text-justify: inter-word;
 }
 
-.about-photos {
-  flex: 0 0 320px;
-  max-width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 1.5rem;
-}
-
 .about-chairman {
+  flex: 0 0 300px;
+  order: -1;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100%;
+  text-align: center;
+  background-color: var(--color-white);
+  border: 1px solid rgba(26, 26, 26, 0.08);
+  border-top: 4px solid var(--color-primary);
+  border-radius: 14px;
+  padding: 2.5rem 1.75rem 2.25rem;
+  box-shadow: 0 10px 30px rgba(26, 26, 26, 0.07);
+  position: sticky;
+  top: calc(var(--navbar-height) + 1.5rem);
 }
 
 .about-chairman-photo {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  border-radius: 12px;
   overflow: hidden;
-  border: 4px solid var(--color-primary);
+  border: 3px solid var(--color-primary);
+  box-shadow: 0 6px 16px rgba(26, 26, 26, 0.12);
   flex-shrink: 0;
 }
 
@@ -80,87 +106,123 @@
 }
 
 .about-chairman-label {
-  margin-top: 0.75rem;
-  margin-bottom: 0;
-  text-align: center;
+  margin-top: 1.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.15rem;
 }
 
 .about-page .about-chairman-name,
-.about-page .about-chairman-title {
+.about-page .about-chairman-title,
+.about-page .about-chairman-company {
   margin: 0;
-  font-weight: 600;
-  line-height: 1.1;
+  line-height: 1.3;
+  text-align: center;
 }
 
 .about-page .about-chairman-name {
   color: var(--color-black);
+  font-size: 1.2rem;
+  font-weight: 700;
 }
 
 .about-page .about-chairman-title {
-  color: var(--color-primary);
+  /* darker brand orange: #f97316 is only 2.8:1 on white, below the 4.5:1 AA minimum at this size */
+  color: #c2410c;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  margin-top: 0.4rem;
 }
 
-.about-image {
-  width: 100%;
-}
-
-.about-image img {
-  width: 100%;
-  max-height: 360px;
-  border-radius: 8px;
+.about-chairman-divider {
   display: block;
-  object-fit: cover;
-  object-position: center;
+  width: 36px;
+  height: 2px;
+  border-radius: 999px;
+  background-color: rgba(26, 26, 26, 0.12);
+  margin: 1rem 0;
+}
+
+.about-page .about-chairman-company {
+  color: #595959;
+  font-size: 0.85rem;
 }
 
 .about-timeline {
-  border-left: 3px solid var(--color-primary);
-  padding-left: 1.5rem;
-  margin-top: 2rem;
+  border-left: 2px solid var(--color-primary-dark);
+  padding-left: 1.75rem;
+  margin-top: 3rem;
 }
 
 .timeline-item {
-  margin-bottom: 1.5rem;
+  position: relative;
+  margin-bottom: 1.75rem;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  /* the global * reset doesn't reach pseudo-elements, so set border-box here or the dot drifts off the rail */
+  box-sizing: border-box;
+  left: calc(-1.75rem - 7px);
+  top: 0.3em;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 3px solid var(--color-primary-dark);
 }
 
 .timeline-item h4 {
   color: var(--color-primary);
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.35rem;
   text-align: left;
 }
 
+/* on short viewports the pinned card would sit clipped below the fold — let it scroll normally */
+@media (max-height: 680px) {
+  .about-chairman {
+    position: static;
+  }
+}
+
+@media (min-width: 1001px) {
+  .about-content {
+    gap: clamp(4rem, 6vw, 6rem);
+  }
+
+  .about-chairman {
+    flex: 0 0 clamp(340px, 30vw, 400px);
+    padding: 2.75rem 2rem 2.5rem;
+  }
+}
+
 @media (max-width: 1000px) {
+  .about-page {
+    padding-bottom: 1.5rem;
+  }
+
   .about-content {
     flex-direction: column;
     align-items: center;
   }
 
   .about-main {
-    flex: 1 1 auto;
     width: 100%;
-    order: 1;
-  }
-
-  .about-photos {
-    display: contents;
   }
 
   .about-chairman {
-    order: 2;
+    order: 0;
+    position: static;
     width: 100%;
     max-width: 360px;
-    margin-top: 1.5rem;
-    margin-bottom: 0.5rem;
-  }
-
-  .about-image {
-    order: 3;
-    width: 100%;
-    max-width: 360px;
-    margin-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
   }
 }

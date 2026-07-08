@@ -35,15 +35,21 @@ export default function Home() {
         <div className="hero-overlay" />
 
         <div className="hero-content">
-          <h1>{site.name.toUpperCase()}</h1>
-          <p className="hero-subtitle">{site.tagline}</p>
+          <div className="hero-copy">
+            <h1 className="hero-title">
+              <span className="hero-title-static">{site.name}</span>
+              <span className="hero-title-rotate">
+                <GooeyText
+                  text={site.heroTaglines[activeIndex]}
+                  morphTime={1}
+                  className="hero-tagline-wrapper"
+                  textClassName="hero-tagline"
+                />
+              </span>
+            </h1>
 
-          <GooeyText
-            text={site.heroTaglines[activeIndex]}
-            morphTime={1}
-            className="hero-tagline-wrapper"
-            textClassName="hero-tagline"
-          />
+            <p className="hero-description">{site.shortDescription}</p>
+          </div>
 
           <div className="hero-actions">
             <a href="#contact" className="btn btn-primary">
@@ -55,15 +61,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
-      {/* <div className="highlights">
-        {site.highlights.map((item) => (
-          <div className="highlight-card" key={item.title}>
-            <h3>{item.title}</h3>
-            <p>{item.description}</p>
-          </div>
-        ))}
-      </div> */}
     </section>
   );
 }

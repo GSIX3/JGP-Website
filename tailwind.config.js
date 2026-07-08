@@ -6,6 +6,20 @@ export default {
   },
   theme: {
     extend: {
+      fontFamily: {
+        sans: [
+          "Inter",
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "Segoe UI",
+          "sans-serif",
+        ],
+      },
+      fontWeight: {
+        regular: "400",
+      },
       colors: {
         primary: "#f97316",
       },

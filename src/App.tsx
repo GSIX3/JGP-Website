@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Companies from "./pages/Companies";
 import Products from "./pages/Products";
-import Contact from "./pages/Contact";
+import WhyChooseUs from "./components/WhyChooseUs";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         <About />
         <Companies />
         <Products />
-        <Contact />
+        <WhyChooseUs />
       </main>
       <Footer />
     </>
