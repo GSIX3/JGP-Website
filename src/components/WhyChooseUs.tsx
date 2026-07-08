@@ -10,7 +10,7 @@ import {
 import type { LucideIcon } from "lucide-react";
 import { site } from "../content/site";
 import SectionHeader from "../components/SectionHeader";
-import deliveryImage from "../assets/diliver.jpg";
+import deliveryImage from "../assets/diliver.webp";
 
 const benefitIcons: LucideIcon[] = [
   Clock,
@@ -38,7 +38,7 @@ export default function WhyChooseUs() {
 
       <div className="why-choose-layout">
         <div className="why-choose-image">
-          <img src={deliveryImage} alt={imageAlt} loading="lazy" />
+          <img src={deliveryImage} alt={imageAlt} loading="lazy" decoding="async" />
         </div>
 
         <div className="why-choose-panel">

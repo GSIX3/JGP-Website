@@ -1,13 +1,17 @@
 import { useState, useEffect } from "react";
+import { preload } from "react-dom";
 import "../styles/home.css";
 import GooeyText from "../components/GooeyText";
 import { site } from "../content/site";
-import img1 from "../assets/img1.jpg";
-import img2 from "../assets/img2.jpg";
-import img4 from "../assets/img4.jpg";
+import img1 from "../assets/img1.webp";
+import img2 from "../assets/img2.webp";
+import img4 from "../assets/img4.webp";
 
 const heroImages = [img1, img2, img4];
 const SLIDE_INTERVAL = 4000;
+
+// the first slide is the LCP image — start fetching it before React renders
+preload(heroImages[0], { as: "image", fetchPriority: "high" });
 
 export default function Home() {
   const [activeIndex, setActiveIndex] = useState(0);

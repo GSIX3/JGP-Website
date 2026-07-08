@@ -87,6 +87,7 @@ export default function Products() {
                 src={category.image}
                 alt=""
                 loading="lazy"
+                decoding="async"
               />
               <div className="product-card__overlay" aria-hidden="true" />
               <div className="product-card__content">
