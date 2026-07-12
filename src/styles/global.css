@@ -94,6 +94,7 @@ img {
 
 #home,
 #about,
+#who-we-are,
 #companies,
 #products,
 #why-us {
@@ -150,8 +151,9 @@ img {
   font-style: italic;
 }
 
-/* Shared section headings — About, Companies, Products, Why Us, Contact */
+/* Shared section headings — About, Who We Are, Companies, Products, Why Us, Contact */
 .about-page h1,
+.who-page h1,
 .companies-page h1,
 .products-page h1,
 .why-choose-page h1,
@@ -166,6 +168,7 @@ img {
 }
 
 .about-page h1::after,
+.who-page h1::after,
 .companies-page h1::after,
 .products-page h1::after,
 .why-choose-page h1::after,
@@ -196,6 +199,7 @@ img {
   }
 
   .about-page h1,
+  .who-page h1,
   .companies-page h1,
   .products-page h1,
   .why-choose-page h1,
@@ -210,6 +214,7 @@ img {
   }
 
   .about-page h1::after,
+  .who-page h1::after,
   .companies-page h1::after,
   .products-page h1::after,
   .why-choose-page h1::after,
@@ -227,6 +232,7 @@ img {
   }
 
   .about-page h1,
+  .who-page h1,
   .companies-page h1,
   .products-page h1,
   .why-choose-page h1,
@@ -242,6 +248,7 @@ img {
   }
 
   .about-page h1::after,
+  .who-page h1::after,
   .companies-page h1::after,
   .products-page h1::after,
   .why-choose-page h1::after,

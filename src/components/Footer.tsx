@@ -4,6 +4,7 @@ import { site } from "../content/site";
 const footerLinks = [
   { label: "Home", href: "#home" },
   { label: "About Us", href: "#about" },
+  { label: "Who We Are", href: "#who-we-are" },
   { label: "Companies", href: "#companies" },
   { label: "Products", href: "#products" },
   { label: "Contact", href: "#contact" },
@@ -40,9 +41,9 @@ export default function Footer() {
             <span className="footer-brand-rest">{brandRest.join(" ")}</span>
           </div>
           <p className="footer-brand-text">
-            Licensed pharmaceutical distribution in Sri Lanka's Central
-            Province — compliant storage, handling, and delivery of medicines
-            to pharmacies and healthcare institutions.
+            Delivering trusted healthcare through licensed pharmaceutical
+            distribution across Sri Lanka&apos;s Central Province — and partially
+            across Sabaragamuwa and Uva.
           </p>
         </div>
 

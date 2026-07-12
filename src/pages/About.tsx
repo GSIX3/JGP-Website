@@ -38,13 +38,13 @@ export default function About() {
           <div className="about-chairman-photo">
             <img
               src={chairmanPhoto}
-              alt="Portrait of J.G.Thilakasiri"
+              alt="Portrait of J.G. Thilakasiri"
               loading="lazy"
               decoding="async"
             />
           </div>
           <div className="about-chairman-label">
-            <p className="about-chairman-name">J.G.Thilakasiri</p>
+            <p className="about-chairman-name">J.G. Thilakasiri</p>
             <p className="about-chairman-title">Chairman</p>
             <span className="about-chairman-divider" aria-hidden="true" />
             <p className="about-chairman-company">{site.name}</p>

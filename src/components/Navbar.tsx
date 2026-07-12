@@ -6,6 +6,7 @@ import logo from "../assets/jgp_logo.png";
 const NAV_LINKS = [
   { id: "home", label: "Home" },
   { id: "about", label: "About" },
+  { id: "who-we-are", label: "Who We Are" },
   { id: "companies", label: "Companies" },
   { id: "products", label: "Products" },
   { id: "why-us", label: "Why Us" },

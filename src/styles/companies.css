@@ -70,6 +70,24 @@
   margin-top: 0;
 }
 
+.companies-marquee-blend {
+  position: relative;
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    #000 8%,
+    #000 92%,
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    #000 8%,
+    #000 92%,
+    transparent 100%
+  );
+}
+
 .companies-marquee {
   margin-top: 0 !important;
 }
@@ -85,6 +103,18 @@
   align-items: center;
   justify-content: center;
   margin-inline: 3.25rem;
+  opacity: 0.88;
+  filter: grayscale(0.15);
+  transition:
+    opacity 0.25s ease,
+    filter 0.25s ease,
+    transform 0.25s ease;
+}
+
+.company-logo-item:hover {
+  opacity: 1;
+  filter: grayscale(0);
+  transform: translateY(-2px);
 }
 
 .company-logo-img {
