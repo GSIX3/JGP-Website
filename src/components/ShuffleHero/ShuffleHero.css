@@ -1,0 +1,142 @@
+/* =============================================================================
+   ShuffleHero — portable styles (Mealtime forest + lime theme)
+   Copy with ShuffleHero.tsx. Requires framer-motion.
+   ============================================================================= */
+
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+.shuffle-hero {
+  --sh-bg: #f4f5ef;
+  --sh-forest: #1c3328;
+  --sh-lime: #c8e85a;
+  --sh-lime-bright: #d4f06d;
+  --sh-muted: #6b7a72;
+  --sh-white: #ffffff;
+  --sh-tile: #dfe4d8;
+  --sh-font: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  width: 100%;
+  background: var(--sh-bg);
+  font-family: var(--sh-font);
+  color: var(--sh-forest);
+  padding: clamp(2.5rem, 5vw, 4rem) clamp(1.25rem, 4vw, 2rem);
+}
+
+.shuffle-hero *,
+.shuffle-hero *::before,
+.shuffle-hero *::after {
+  box-sizing: border-box;
+}
+
+.shuffle-hero__inner {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  gap: 2rem;
+  max-width: 72rem;
+  margin: 0 auto;
+}
+
+.shuffle-hero__eyebrow {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--sh-forest);
+  opacity: 0.75;
+}
+
+.shuffle-hero__title {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3.75rem);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  color: var(--sh-forest);
+}
+
+.shuffle-hero__description {
+  margin: 1.15rem 0 1.5rem;
+  max-width: 32rem;
+  font-size: clamp(1rem, 1.6vw, 1.125rem);
+  font-weight: 500;
+  line-height: 1.6;
+  color: var(--sh-muted);
+}
+
+.shuffle-hero__cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem 1.25rem;
+  border-radius: 0.55rem;
+  background: var(--sh-lime-bright);
+  color: var(--sh-forest);
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition:
+    background-color 180ms ease,
+    transform 180ms ease;
+}
+
+.shuffle-hero__cta:hover {
+  background: var(--sh-lime);
+  transform: translateY(-1px);
+}
+
+.shuffle-hero__cta:active {
+  transform: scale(0.97);
+}
+
+.shuffle-hero__cta:focus-visible {
+  outline: 2px solid var(--sh-forest);
+  outline-offset: 3px;
+}
+
+.shuffle-hero__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(4, minmax(0, 1fr));
+  gap: 0.3rem;
+  height: 28rem;
+  width: 100%;
+}
+
+.shuffle-hero__tile {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background-color: var(--sh-tile);
+  background-size: cover;
+  background-position: center;
+}
+
+@media (min-width: 768px) {
+  .shuffle-hero__inner {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+
+  .shuffle-hero__eyebrow {
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 560px) {
+  .shuffle-hero__grid {
+    height: 18rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .shuffle-hero__tile {
+    transition: none !important;
+  }
+}

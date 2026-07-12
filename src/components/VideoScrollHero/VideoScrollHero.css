@@ -1,0 +1,147 @@
+/* =============================================================================
+   VideoScrollHero — portable styles
+   Copy with VideoScrollHero.tsx. MealtimeHero color theme (forest + lime).
+   ============================================================================= */
+
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+.video-scroll-hero {
+  --vsh-bg: #f4f5ef;
+  --vsh-forest: #1c3328;
+  --vsh-forest-deep: #111d18;
+  --vsh-lime: #c8e85a;
+  --vsh-lime-bright: #d4f06d;
+  --vsh-white: #ffffff;
+  --vsh-radius: 2rem;
+  --vsh-shadow: 0 28px 70px rgba(28, 51, 40, 0.28);
+  --vsh-font: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  position: relative;
+  font-family: var(--vsh-font);
+  color: var(--vsh-forest);
+}
+
+.video-scroll-hero *,
+.video-scroll-hero *::before,
+.video-scroll-hero *::after {
+  box-sizing: border-box;
+}
+
+.video-scroll-hero__track {
+  position: relative;
+  height: 200vh;
+  background: var(--vsh-bg);
+}
+
+.video-scroll-hero__sticky {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  padding: 1.25rem;
+}
+
+.video-scroll-hero__stage {
+  position: relative;
+  width: min(80vw, 56rem);
+  height: 60vh;
+  overflow: hidden;
+  border-radius: var(--vsh-radius);
+  box-shadow: var(--vsh-shadow);
+  background: var(--vsh-forest-deep);
+  will-change: transform;
+  transform-origin: center center;
+}
+
+.video-scroll-hero__video {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+}
+
+.video-scroll-hero__overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: inherit;
+  /* Light scrim so the video stays visible underneath */
+  background: linear-gradient(
+    180deg,
+    rgba(17, 29, 24, 0.45) 0%,
+    rgba(17, 29, 24, 0.28) 50%,
+    rgba(17, 29, 24, 0.5) 100%
+  );
+  pointer-events: none;
+}
+
+.video-scroll-hero__copy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: var(--vsh-white);
+  padding: 0 1.5rem;
+  max-width: 40rem;
+}
+
+.video-scroll-hero__eyebrow {
+  display: inline-block;
+  margin: 0 0 1rem;
+  padding: 0.4rem 0.95rem;
+  border-radius: 999px;
+  background: var(--vsh-lime-bright);
+  color: var(--vsh-forest-deep);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.video-scroll-hero__title {
+  margin: 0;
+  font-size: clamp(1.85rem, 5vw, 3.6rem);
+  font-weight: 800;
+  line-height: 1.12;
+  letter-spacing: -0.03em;
+  color: var(--vsh-white);
+  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.35);
+}
+
+.video-scroll-hero__title-accent {
+  display: block;
+  color: var(--vsh-lime-bright);
+}
+
+.video-scroll-hero__subtitle {
+  margin: 1.1rem auto 0;
+  max-width: 28rem;
+  font-size: clamp(0.95rem, 1.8vw, 1.15rem);
+  font-weight: 500;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.82);
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 640px) {
+  .video-scroll-hero__stage {
+    width: 92vw;
+    height: 52vh;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .video-scroll-hero__stage {
+    will-change: auto;
+  }
+}
