@@ -14,9 +14,9 @@
 export const site = {
   name: "JGP Marketing Services",
   legalName: "JGP Marketing Services (Pvt) Ltd",
-  tagline: "Pharmaceutical Distribution",
+  tagline: "Delivering Trusted Healthcare",
   shortDescription:
-    "Licensed pharmaceutical distributor serving pharmacies, hospitals, and healthcare institutions in Sri Lanka's Central Province.",
+    "Licensed pharmaceutical distributor serving hospitals, pharmacies, and medical clinics across Sri Lanka's Central Province, and partially across Sabaragamuwa and Uva.",
 
   heroTaglines: [
     "Your Trusted Pharma Partner",
@@ -25,18 +25,17 @@ export const site = {
   ] as const,
 
   contact: {
-    /**
-     * Source: rainbowpages.lk listing for "J G P Marketing Services (pvt) Ltd"
-     * Alternate listing (near-place.com) shows 64 Riverdale Rd, Kandy and +94 817 388 100.
-     * Confirm correct office location and phone before go-live.
-     */
-    phones: [{ display: "081 220 0859", href: "tel:+94812200859" }],
+    /** Source: company portfolio PDF — J G P Marketing Services (Pvt) Ltd */
+    phones: [{ display: "081-7388100", href: "tel:+94817388100" }],
     whatsapp: null as { display: string; href: string } | null,
-    email: null as { display: string; href: string } | null,
-    address: "64 Riverdale Rd, Kandy 20000, Sri Lanka",
-    mapQuery: "JGP Marketing Services 64 Riverdale Rd, Kandy 20000, Sri Lanka",
-    notes:
-      "Phone and address sourced from a public directory listing — please confirm. Email and WhatsApp not found in public listings.",
+    email: {
+      display: "kandy@jgpmarketing.lk",
+      href: "mailto:kandy@jgpmarketing.lk",
+    },
+    address: "No. 64, Riverdale Road, Anniwatte, Kandy, Sri Lanka",
+    mapQuery:
+      "JGP Marketing Services No. 64 Riverdale Road Anniwatte Kandy Sri Lanka",
+    notes: "Contact details from company portfolio.",
   },
 
   seo: {
@@ -53,26 +52,67 @@ export const site = {
   about: {
     subtitle: "Trusted pharmaceutical distribution in Sri Lanka",
     paragraphs: [
-      "JGP Marketing Services (Pvt) Ltd is a pharmaceutical distribution company based in Kandy, dedicated to connecting licensed manufacturers with pharmacies, hospitals, and healthcare institutions across the Central Province.",
-      "We focus on the compliant storage, handling, and delivery of medicines and healthcare products supporting healthcare providers with reliable supply at every step of the distribution chain.",
-      "Our team combines industry experience with a commitment to quality, ensuring that the products reaching patients meet the standards healthcare professionals expect.",
+      "Here at JGP Marketing, we are committed to delivering high-quality pharmaceutical products through a reliable and efficient distribution network, with a strong focus on integrity, compliance, and customer satisfaction.",
+      "We are partnered with Sri Lanka's most trusted healthcare manufacturers and providers to ensure the timely supply of essential medicines and healthcare solutions to leading hospitals, pharmacies, and medical clinics within the Central Province, and partially across the Sabaragamuwa and Uva provinces.",
+      "Our operations are driven by industry standards, innovation, and a dedication to supporting the evolving needs of the healthcare sector. Through strategic partnerships and operational excellence, we aim to improve healthcare accessibility for everyone.",
     ],
     timeline: [
       {
-        title: "Foundation",
+        title: "1991 — Founded",
         description:
-          "JGP Marketing Services established to serve the pharmaceutical distribution needs of the Kandy region.",
+          "J.G.P Marketing Services founded by Mr J. G. Thilakasiri as a distributor for consumer products across Sri Lanka's Central Province, driven by reliability, service excellence, and strong customer relationships.",
       },
       {
-        title: "Portfolio Growth",
+        title: "1997 — Healthcare Expansion",
         description:
-          "Expanded partnerships with licensed manufacturers to offer a broader range of prescription, OTC, and healthcare products.",
+          "Expanded into pharmaceutical and hospital equipment distribution after recognising the growing need for efficient healthcare supply chains.",
+      },
+      {
+        title: "2002 — Pharma Focus",
+        description:
+          "Transitioned exclusively to pharmaceutical distribution after Mrs Senani De Saram Jamburegoda joined as Directress — building the foundation for today's regional leadership.",
       },
       {
         title: "Today",
         description:
-          "Continuing to deliver compliant, timely distribution to licensed pharmacies and healthcare institutions throughout the Central Province.",
+          "One of the leading distributors for pharmaceuticals, medical equipment, and healthcare products within the Central Province, and partially in Sabaragamuwa and Uva provinces.",
       },
+    ],
+  },
+
+  whoWeAre: {
+    subtitle:
+      "Mission, vision, and values that guide how we serve healthcare across the region.",
+    mission: {
+      label: "Our Mission",
+      quote:
+        "To deliver pharmaceutical products efficiently and responsibly through strong partnerships, experienced people, and a region-wide distribution network.",
+    },
+    vision: {
+      label: "Our Vision",
+      quote:
+        "To be the most trusted and progressive pharmaceutical distribution partner in the Region, improving healthcare accessibility through operational excellence, long-term partnerships, and sustainable growth.",
+    },
+    values: [
+      {
+        title: "Commitment to Healthcare",
+        description:
+          "We contribute to the healthcare sector by ensuring safe, efficient, and reliable access to pharmaceutical products across the country.",
+      },
+      {
+        title: "Partnership & Collaboration",
+        description:
+          "We build enduring partnerships with global brands, suppliers, healthcare professionals, and business partners based on mutual growth and trust.",
+      },
+      {
+        title: "Customer Commitment",
+        description:
+          "We prioritize dependable service, timely delivery, and strong relationships to support the success of our customers and healthcare partners.",
+      },
+    ],
+    subsidiaries: [
+      { name: "Luthmini Healthcare" },
+      { name: "JGP Marketing (Pvt) Ltd" },
     ],
   },
 

@@ -40,25 +40,30 @@ export default function Companies() {
               <span className="companies-title-accent">Work With Us</span>
             </>
           }
+          subtitle="Pharmaceutical agents and trusted manufacturers across Sri Lanka’s healthcare network."
         />
 
         <div className="companies-showcase">
-          <Marquee pauseOnHover speed={35} className="companies-marquee">
-            {topRowPartners.map((company) => (
-              <CompanyLogo key={company.name} company={company} />
-            ))}
-          </Marquee>
+          <div className="companies-marquee-blend">
+            <Marquee pauseOnHover speed={35} className="companies-marquee">
+              {topRowPartners.map((company) => (
+                <CompanyLogo key={company.name} company={company} />
+              ))}
+            </Marquee>
+          </div>
 
-          <Marquee
-            pauseOnHover
-            speed={40}
-            direction="right"
-            className="companies-marquee"
-          >
-            {bottomRowPartners.map((company) => (
-              <CompanyLogo key={company.name} company={company} />
-            ))}
-          </Marquee>
+          <div className="companies-marquee-blend">
+            <Marquee
+              pauseOnHover
+              speed={40}
+              direction="right"
+              className="companies-marquee"
+            >
+              {bottomRowPartners.map((company) => (
+                <CompanyLogo key={company.name} company={company} />
+              ))}
+            </Marquee>
+          </div>
         </div>
       </div>
     </section>
